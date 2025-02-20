@@ -4139,3 +4139,149 @@
   "status": "OK"
 }
 2025-02-20 18:45:13,496 - INFO - Enhanced data saved to enhanced_dataset.csv
+2025-02-20 19:47:20,641 - INFO - Loaded CSV file with 3737 rows
+2025-02-20 19:47:20,641 - INFO - Test mode: Processing first 5 rows only
+2025-02-20 19:47:20,644 - DEBUG - Search query: Gamble Plumbing HVAC Raleigh USA
+2025-02-20 19:47:20,644 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 19:47:20,646 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 19:47:21,088 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Gamble+Plumbing+HVAC+Raleigh+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY HTTP/1.1" 200 158
+2025-02-20 19:47:21,088 - DEBUG - API Response status: 200
+2025-02-20 19:47:21,089 - DEBUG - Search API Response: {
+  "error_message": "This API project is not authorized to use this API.",
+  "html_attributions": [],
+  "results": [],
+  "status": "REQUEST_DENIED"
+}
+2025-02-20 19:47:21,089 - WARNING - No places found for query: Gamble Plumbing HVAC Raleigh USA
+2025-02-20 19:47:21,091 - DEBUG - Search query: Spurk HVAC Pittsburgh USA
+2025-02-20 19:47:21,091 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 19:47:21,092 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 19:47:21,633 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Spurk+HVAC+Pittsburgh+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY HTTP/1.1" 200 158
+2025-02-20 19:47:21,633 - DEBUG - API Response status: 200
+2025-02-20 19:47:21,634 - DEBUG - Search API Response: {
+  "error_message": "This API project is not authorized to use this API.",
+  "html_attributions": [],
+  "results": [],
+  "status": "REQUEST_DENIED"
+}
+2025-02-20 19:47:21,634 - WARNING - No places found for query: Spurk HVAC Pittsburgh USA
+2025-02-20 19:47:21,635 - DEBUG - Search query: Pliescott HVAC Services Cambridge USA
+2025-02-20 19:47:21,636 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 19:47:21,637 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 19:47:22,056 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Pliescott+HVAC+Services+Cambridge+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY HTTP/1.1" 200 158
+2025-02-20 19:47:22,057 - DEBUG - API Response status: 200
+2025-02-20 19:47:22,057 - DEBUG - Search API Response: {
+  "error_message": "This API project is not authorized to use this API.",
+  "html_attributions": [],
+  "results": [],
+  "status": "REQUEST_DENIED"
+}
+2025-02-20 19:47:22,058 - WARNING - No places found for query: Pliescott HVAC Services Cambridge USA
+2025-02-20 19:47:22,060 - DEBUG - Search query: Tetteris HVAC Frederick USA
+2025-02-20 19:47:22,060 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 19:47:22,061 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 19:47:22,437 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Tetteris+HVAC+Frederick+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY HTTP/1.1" 200 158
+2025-02-20 19:47:22,438 - DEBUG - API Response status: 200
+2025-02-20 19:47:22,438 - DEBUG - Search API Response: {
+  "error_message": "This API project is not authorized to use this API.",
+  "html_attributions": [],
+  "results": [],
+  "status": "REQUEST_DENIED"
+}
+2025-02-20 19:47:22,438 - WARNING - No places found for query: Tetteris HVAC Frederick USA
+2025-02-20 19:47:22,440 - DEBUG - Search query: ProfAir HVAC New York USA
+2025-02-20 19:47:22,440 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 19:47:22,441 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 19:47:22,822 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=ProfAir+HVAC+New+York+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY HTTP/1.1" 200 158
+2025-02-20 19:47:22,822 - DEBUG - API Response status: 200
+2025-02-20 19:47:22,823 - DEBUG - Search API Response: {
+  "error_message": "This API project is not authorized to use this API.",
+  "html_attributions": [],
+  "results": [],
+  "status": "REQUEST_DENIED"
+}
+2025-02-20 19:47:22,823 - WARNING - No places found for query: ProfAir HVAC New York USA
+2025-02-20 19:47:22,828 - INFO - Enhanced data saved to enhanced_dataset.csv
+2025-02-20 19:49:42,705 - INFO - Loaded CSV file with 3737 rows
+2025-02-20 19:49:42,706 - INFO - Test mode: Processing first 5 rows only
+2025-02-20 19:49:42,708 - DEBUG - Making API request to https://places.googleapis.com/v1/places:searchText
+2025-02-20 19:49:42,710 - DEBUG - Starting new HTTPS connection (1): places.googleapis.com:443
+2025-02-20 19:49:43,635 - DEBUG - https://places.googleapis.com:443 "POST /v1/places:searchText HTTP/1.1" 200 None
+2025-02-20 19:49:43,636 - DEBUG - API Response status: 200
+2025-02-20 19:49:43,674 - DEBUG - Making API request to https://places.googleapis.com/v1/places:searchText
+2025-02-20 19:49:43,675 - DEBUG - Starting new HTTPS connection (1): places.googleapis.com:443
+2025-02-20 19:49:44,497 - DEBUG - https://places.googleapis.com:443 "POST /v1/places:searchText HTTP/1.1" 200 None
+2025-02-20 19:49:44,498 - DEBUG - API Response status: 200
+2025-02-20 19:49:44,498 - DEBUG - Search API Response: {
+  "places": [
+    {
+      "id": "ChIJoXu4xneINIgRldjD20nbkdQ",
+      "internationalPhoneNumber": "+1 724-213-0587",
+      "formattedAddress": "355 Northgate Dr, Warrendale, PA 15086, USA",
+      "rating": 4.9,
+      "websiteUri": "https://www.spurkhvac.com/?utm_source=google&utm_medium=gmb&utm_id=cbc",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 402,
+      "displayName": {
+        "text": "Spurk HVAC, LLC.",
+        "languageCode": "en"
+      },
+      "primaryType": "general_contractor"
+    }
+  ]
+}
+
+2025-02-20 19:49:44,503 - DEBUG - Making API request to https://places.googleapis.com/v1/places:searchText
+2025-02-20 19:49:44,504 - DEBUG - Starting new HTTPS connection (1): places.googleapis.com:443
+2025-02-20 19:49:45,558 - DEBUG - https://places.googleapis.com:443 "POST /v1/places:searchText HTTP/1.1" 200 None
+2025-02-20 19:49:45,559 - DEBUG - API Response status: 200
+2025-02-20 19:49:45,559 - DEBUG - Search API Response: {
+  "places": [
+    {
+      "id": "ChIJCXjLpz1KuIkRtVrbcXnAHd4",
+      "internationalPhoneNumber": "+1 410-228-4822",
+      "formattedAddress": "100 Goodwill Rd, Cambridge, MD 21613, USA",
+      "rating": 4.1,
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 9,
+      "displayName": {
+        "text": "Pliescott HVAC Services",
+        "languageCode": "en"
+      },
+      "primaryType": "general_contractor"
+    }
+  ]
+}
+
+2025-02-20 19:49:45,563 - DEBUG - Making API request to https://places.googleapis.com/v1/places:searchText
+2025-02-20 19:49:45,564 - DEBUG - Starting new HTTPS connection (1): places.googleapis.com:443
+2025-02-20 19:49:46,204 - DEBUG - https://places.googleapis.com:443 "POST /v1/places:searchText HTTP/1.1" 200 None
+2025-02-20 19:49:46,204 - DEBUG - API Response status: 200
+2025-02-20 19:49:46,205 - DEBUG - Search API Response: {}
+
+2025-02-20 19:49:46,206 - DEBUG - Making API request to https://places.googleapis.com/v1/places:searchText
+2025-02-20 19:49:46,207 - DEBUG - Starting new HTTPS connection (1): places.googleapis.com:443
+2025-02-20 19:49:47,015 - DEBUG - https://places.googleapis.com:443 "POST /v1/places:searchText HTTP/1.1" 200 None
+2025-02-20 19:49:47,015 - DEBUG - API Response status: 200
+2025-02-20 19:49:47,033 - INFO - Enhanced data saved to enhanced_dataset.csv
