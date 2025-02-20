@@ -1,0 +1,4141 @@
+2025-02-20 18:03:26,922 - ERROR - Application error: Google Places API key not found in .env file
+2025-02-20 18:03:48,815 - INFO - API queries_quota: 60
+2025-02-20 18:03:48,826 - INFO - Loaded CSV file with 2041 rows
+2025-02-20 18:03:48,827 - INFO - Test mode: Processing first 5 rows only
+2025-02-20 18:03:49,612 - WARNING - No matching place found for company: www
+2025-02-20 18:03:49,743 - WARNING - No matching place found for company: www
+2025-02-20 18:03:49,891 - WARNING - No matching place found for company: www
+2025-02-20 18:03:50,029 - WARNING - No matching place found for company: www
+2025-02-20 18:03:50,121 - WARNING - No matching place found for company: www
+2025-02-20 18:03:50,123 - INFO - Enhanced data saved to enhanced_dataset.csv
+2025-02-20 18:04:11,742 - INFO - API queries_quota: 60
+2025-02-20 18:04:11,755 - INFO - Loaded CSV file with 2041 rows
+2025-02-20 18:04:11,756 - INFO - Test mode: Processing first 5 rows only
+2025-02-20 18:04:11,757 - INFO - Processing company: gambletheplumber
+2025-02-20 18:04:12,229 - WARNING - No matching place found for company: gambletheplumber
+2025-02-20 18:04:12,230 - INFO - Processing company: spurkhvac
+2025-02-20 18:04:12,593 - WARNING - No matching place found for company: spurkhvac
+2025-02-20 18:04:12,594 - INFO - Processing company: pliestthvac
+2025-02-20 18:04:12,806 - WARNING - No results found for company: pliestthvac
+2025-02-20 18:04:12,807 - INFO - Processing company: tetterisheatingandair
+2025-02-20 18:04:13,099 - WARNING - No results found for company: tetterisheatingandair
+2025-02-20 18:04:13,100 - INFO - Processing company: abrahamroofing
+2025-02-20 18:04:13,442 - WARNING - No matching place found for company: abrahamroofing
+2025-02-20 18:04:13,444 - INFO - Enhanced data saved to enhanced_dataset.csv
+2025-02-20 18:04:37,347 - INFO - API queries_quota: 60
+2025-02-20 18:04:37,358 - INFO - Loaded CSV file with 2041 rows
+2025-02-20 18:04:37,359 - INFO - Test mode: Processing first 5 rows only
+2025-02-20 18:04:37,360 - INFO - Processing company: gambletheplumber Andrew Gamble Raleigh
+2025-02-20 18:04:37,815 - WARNING - No matching place found for company: gambletheplumber Andrew Gamble Raleigh
+2025-02-20 18:04:37,816 - INFO - Processing company: spurk Jason Spurk Pittsburgh
+2025-02-20 18:04:38,285 - WARNING - No matching place found for company: spurk Jason Spurk Pittsburgh
+2025-02-20 18:04:38,285 - INFO - Processing company: pliestt Woody Pliescott Cambridge
+2025-02-20 18:04:38,650 - WARNING - No matching place found for company: pliestt Woody Pliescott Cambridge
+2025-02-20 18:04:38,650 - INFO - Processing company: tetterisand Tetteris Hvac Frederick
+2025-02-20 18:04:38,991 - WARNING - No matching place found for company: tetterisand Tetteris Hvac Frederick
+2025-02-20 18:04:38,991 - INFO - Processing company: abrahamroofing Meir Moshe Lynbrook
+2025-02-20 18:04:39,300 - WARNING - No matching place found for company: abrahamroofing Meir Moshe Lynbrook
+2025-02-20 18:04:39,302 - INFO - Enhanced data saved to enhanced_dataset.csv
+2025-02-20 18:06:09,308 - INFO - API queries_quota: 60
+2025-02-20 18:06:09,319 - INFO - Loaded CSV file with 2041 rows
+2025-02-20 18:06:09,319 - INFO - Test mode: Processing first 5 rows only
+2025-02-20 18:06:09,321 - INFO - Searching for: gambletheplumber Raleigh
+2025-02-20 18:06:09,812 - WARNING - No matching place found for gambletheplumber Raleigh with domain gambletheplumber.com
+2025-02-20 18:06:09,813 - INFO - Searching for: spurkhvac Pittsburgh
+2025-02-20 18:06:10,105 - WARNING - No matching place found for spurkhvac Pittsburgh with domain spurkhvac.com
+2025-02-20 18:06:10,106 - INFO - Searching for: pliescotthvac Cambridge
+2025-02-20 18:06:10,388 - WARNING - No matching place found for pliescotthvac Cambridge with domain pliescotthvac.com
+2025-02-20 18:06:10,389 - INFO - Searching for: tetterisheatingandair Frederick
+2025-02-20 18:06:10,674 - WARNING - No results found for query: tetterisheatingandair Frederick
+2025-02-20 18:06:10,675 - INFO - Searching for: abrahamroofing Lynbrook
+2025-02-20 18:06:11,020 - WARNING - No matching place found for abrahamroofing Lynbrook with domain abrahamroofing.com
+2025-02-20 18:06:11,023 - INFO - Enhanced data saved to enhanced_dataset.csv
+2025-02-20 18:15:18,781 - INFO - API queries_quota: 60
+2025-02-20 18:15:18,797 - INFO - Loaded CSV file with 3737 rows
+2025-02-20 18:15:18,797 - INFO - Test mode: Processing first 5 rows only
+2025-02-20 18:15:18,799 - INFO - Searching for: Gamble Plumbing HVAC Raleigh USA
+2025-02-20 18:15:19,323 - WARNING - No matching place found for Gamble Plumbing HVAC Raleigh USA with domain gambletheplumber.com
+2025-02-20 18:15:19,324 - INFO - Searching for: Spurk HVAC, LLC. Pittsburgh USA
+2025-02-20 18:15:19,745 - WARNING - No matching place found for Spurk HVAC, LLC. Pittsburgh USA with domain spurkhvac.com
+2025-02-20 18:15:19,746 - INFO - Searching for: Pliescott HVAC Services LLC Cambridge USA
+2025-02-20 18:15:20,071 - WARNING - No matching place found for Pliescott HVAC Services LLC Cambridge USA with domain pliescotthvac.com
+2025-02-20 18:15:20,072 - INFO - Searching for: Tetteris HVAC Frederick USA
+2025-02-20 18:15:20,411 - WARNING - No results found for query: Tetteris HVAC Frederick USA
+2025-02-20 18:15:20,412 - INFO - Searching for: ProfAir HVAC New York USA
+2025-02-20 18:15:20,795 - WARNING - No matching place found for ProfAir HVAC New York USA with domain profaircorp.com
+2025-02-20 18:15:20,798 - INFO - Enhanced data saved to enhanced_dataset.csv
+2025-02-20 18:17:30,597 - INFO - API queries_quota: 60
+2025-02-20 18:17:30,613 - INFO - Loaded CSV file with 3737 rows
+2025-02-20 18:17:30,613 - INFO - Test mode: Processing first 5 rows only
+2025-02-20 18:17:30,615 - INFO - Trying search query: Gamble Plumbing HVAC Raleigh USA
+2025-02-20 18:17:31,274 - INFO - Trying search query: Gamble Plumbing HVAC Raleigh
+2025-02-20 18:17:31,576 - INFO - Trying search query: Gamble Plumbing HVAC in Raleigh
+2025-02-20 18:17:31,919 - INFO - Trying search query: Gamble Plumbing HVAC
+2025-02-20 18:17:32,274 - INFO - Trying search query: Gamble Plumbing HVAC
+2025-02-20 18:17:32,387 - WARNING - No matching place found for Gamble Plumbing HVAC with domain gambletheplumber.com
+2025-02-20 18:17:32,388 - INFO - Trying search query: Spurk HVAC Pittsburgh USA
+2025-02-20 18:17:32,684 - INFO - Trying search query: Spurk HVAC Pittsburgh
+2025-02-20 18:17:32,962 - INFO - Trying search query: Spurk HVAC in Pittsburgh
+2025-02-20 18:17:33,284 - INFO - Trying search query: Spurk HVAC
+2025-02-20 18:17:33,613 - INFO - Trying search query: Spurk HVAC, LLC.
+2025-02-20 18:17:33,891 - WARNING - No matching place found for Spurk HVAC, LLC. with domain spurkhvac.com
+2025-02-20 18:17:33,891 - INFO - Trying search query: Pliescott HVAC Services Cambridge USA
+2025-02-20 18:17:34,204 - INFO - Trying search query: Pliescott HVAC Services Cambridge
+2025-02-20 18:17:34,521 - INFO - Trying search query: Pliescott HVAC Services in Cambridge
+2025-02-20 18:17:34,815 - INFO - Trying search query: Pliescott HVAC Services
+2025-02-20 18:17:35,085 - INFO - Trying search query: Pliescott HVAC Services LLC
+2025-02-20 18:17:35,395 - WARNING - No matching place found for Pliescott HVAC Services LLC with domain pliescotthvac.com
+2025-02-20 18:17:35,396 - INFO - Trying search query: Tetteris HVAC Frederick USA
+2025-02-20 18:17:35,738 - INFO - Trying search query: Tetteris HVAC Frederick
+2025-02-20 18:17:36,030 - INFO - Trying search query: Tetteris HVAC in Frederick
+2025-02-20 18:17:36,323 - INFO - Trying search query: Tetteris HVAC
+2025-02-20 18:17:36,591 - INFO - Trying search query: Tetteris HVAC
+2025-02-20 18:17:36,672 - WARNING - No matching place found for Tetteris HVAC with domain tetterisheatingandair.com
+2025-02-20 18:17:36,672 - INFO - Trying search query: ProfAir HVAC New York USA
+2025-02-20 18:17:37,041 - INFO - Trying search query: ProfAir HVAC New York
+2025-02-20 18:17:37,353 - INFO - Trying search query: ProfAir HVAC in New York
+2025-02-20 18:17:37,720 - INFO - Trying search query: ProfAir HVAC
+2025-02-20 18:17:38,038 - INFO - Trying search query: ProfAir HVAC
+2025-02-20 18:17:38,112 - WARNING - No matching place found for ProfAir HVAC with domain profaircorp.com
+2025-02-20 18:17:38,114 - INFO - Enhanced data saved to enhanced_dataset.csv
+2025-02-20 18:25:56,701 - INFO - Loaded CSV file with 3737 rows
+2025-02-20 18:25:56,701 - INFO - Test mode: Processing first 5 rows only
+2025-02-20 18:25:56,704 - DEBUG - Search query: Gamble Plumbing HVAC Raleigh USA
+2025-02-20 18:25:56,704 - DEBUG - Making API request to https://places.googleapis.com/v1/places:searchText
+2025-02-20 18:25:56,706 - DEBUG - Starting new HTTPS connection (1): places.googleapis.com:443
+2025-02-20 18:25:57,360 - DEBUG - https://places.googleapis.com:443 "POST /v1/places:searchText HTTP/1.1" 403 None
+2025-02-20 18:25:57,360 - DEBUG - API Response status: 403
+2025-02-20 18:25:57,361 - DEBUG - API Response headers: {'Vary': 'Origin, X-Origin, Referer', 'Content-Type': 'application/json; charset=UTF-8', 'Content-Encoding': 'gzip', 'Date': 'Thu, 20 Feb 2025 12:55:57 GMT', 'Server': 'scaffolding on HTTPServer2', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'X-Content-Type-Options': 'nosniff', 'Server-Timing': 'gfet4t7; dur=213', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'Transfer-Encoding': 'chunked'}
+2025-02-20 18:25:57,361 - ERROR - API request failed: {
+  "error": {
+    "code": 403,
+    "message": "Places API (New) has not been used in project 466438418325 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/places.googleapis.com/overview?project=466438418325 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "consumer": "projects/466438418325",
+          "activationUrl": "https://console.developers.google.com/apis/api/places.googleapis.com/overview?project=466438418325",
+          "service": "places.googleapis.com",
+          "serviceTitle": "Places API (New)",
+          "containerInfo": "466438418325"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Places API (New) has not been used in project 466438418325 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/places.googleapis.com/overview?project=466438418325 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/places.googleapis.com/overview?project=466438418325"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-02-20 18:25:57,365 - DEBUG - Search query: Spurk HVAC Pittsburgh USA
+2025-02-20 18:25:57,365 - DEBUG - Making API request to https://places.googleapis.com/v1/places:searchText
+2025-02-20 18:25:57,366 - DEBUG - Starting new HTTPS connection (1): places.googleapis.com:443
+2025-02-20 18:25:57,917 - DEBUG - https://places.googleapis.com:443 "POST /v1/places:searchText HTTP/1.1" 403 None
+2025-02-20 18:25:57,918 - DEBUG - API Response status: 403
+2025-02-20 18:25:57,918 - DEBUG - API Response headers: {'Vary': 'Origin, X-Origin, Referer', 'Content-Type': 'application/json; charset=UTF-8', 'Content-Encoding': 'gzip', 'Date': 'Thu, 20 Feb 2025 12:55:57 GMT', 'Server': 'scaffolding on HTTPServer2', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'X-Content-Type-Options': 'nosniff', 'Server-Timing': 'gfet4t7; dur=200', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'Transfer-Encoding': 'chunked'}
+2025-02-20 18:25:57,918 - ERROR - API request failed: {
+  "error": {
+    "code": 403,
+    "message": "Places API (New) has not been used in project 466438418325 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/places.googleapis.com/overview?project=466438418325 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "consumer": "projects/466438418325",
+          "activationUrl": "https://console.developers.google.com/apis/api/places.googleapis.com/overview?project=466438418325",
+          "service": "places.googleapis.com",
+          "serviceTitle": "Places API (New)",
+          "containerInfo": "466438418325"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Places API (New) has not been used in project 466438418325 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/places.googleapis.com/overview?project=466438418325 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/places.googleapis.com/overview?project=466438418325"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-02-20 18:25:57,922 - DEBUG - Search query: Pliescott HVAC Services Cambridge USA
+2025-02-20 18:25:57,922 - DEBUG - Making API request to https://places.googleapis.com/v1/places:searchText
+2025-02-20 18:25:57,923 - DEBUG - Starting new HTTPS connection (1): places.googleapis.com:443
+2025-02-20 18:25:58,494 - DEBUG - https://places.googleapis.com:443 "POST /v1/places:searchText HTTP/1.1" 403 None
+2025-02-20 18:25:58,495 - DEBUG - API Response status: 403
+2025-02-20 18:25:58,495 - DEBUG - API Response headers: {'Vary': 'Origin, X-Origin, Referer', 'Content-Type': 'application/json; charset=UTF-8', 'Content-Encoding': 'gzip', 'Date': 'Thu, 20 Feb 2025 12:55:58 GMT', 'Server': 'scaffolding on HTTPServer2', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'X-Content-Type-Options': 'nosniff', 'Server-Timing': 'gfet4t7; dur=233', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'Transfer-Encoding': 'chunked'}
+2025-02-20 18:25:58,495 - ERROR - API request failed: {
+  "error": {
+    "code": 403,
+    "message": "Places API (New) has not been used in project 466438418325 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/places.googleapis.com/overview?project=466438418325 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "containerInfo": "466438418325",
+          "consumer": "projects/466438418325",
+          "serviceTitle": "Places API (New)",
+          "activationUrl": "https://console.developers.google.com/apis/api/places.googleapis.com/overview?project=466438418325",
+          "service": "places.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Places API (New) has not been used in project 466438418325 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/places.googleapis.com/overview?project=466438418325 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/places.googleapis.com/overview?project=466438418325"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-02-20 18:25:58,499 - DEBUG - Search query: Tetteris HVAC Frederick USA
+2025-02-20 18:25:58,499 - DEBUG - Making API request to https://places.googleapis.com/v1/places:searchText
+2025-02-20 18:25:58,500 - DEBUG - Starting new HTTPS connection (1): places.googleapis.com:443
+2025-02-20 18:25:59,097 - DEBUG - https://places.googleapis.com:443 "POST /v1/places:searchText HTTP/1.1" 403 None
+2025-02-20 18:25:59,098 - DEBUG - API Response status: 403
+2025-02-20 18:25:59,098 - DEBUG - API Response headers: {'Vary': 'Origin, X-Origin, Referer', 'Content-Type': 'application/json; charset=UTF-8', 'Content-Encoding': 'gzip', 'Date': 'Thu, 20 Feb 2025 12:55:59 GMT', 'Server': 'scaffolding on HTTPServer2', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'X-Content-Type-Options': 'nosniff', 'Server-Timing': 'gfet4t7; dur=222', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'Transfer-Encoding': 'chunked'}
+2025-02-20 18:25:59,098 - ERROR - API request failed: {
+  "error": {
+    "code": 403,
+    "message": "Places API (New) has not been used in project 466438418325 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/places.googleapis.com/overview?project=466438418325 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "serviceTitle": "Places API (New)",
+          "service": "places.googleapis.com",
+          "activationUrl": "https://console.developers.google.com/apis/api/places.googleapis.com/overview?project=466438418325",
+          "containerInfo": "466438418325",
+          "consumer": "projects/466438418325"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Places API (New) has not been used in project 466438418325 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/places.googleapis.com/overview?project=466438418325 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/places.googleapis.com/overview?project=466438418325"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-02-20 18:25:59,102 - DEBUG - Search query: ProfAir HVAC New York USA
+2025-02-20 18:25:59,102 - DEBUG - Making API request to https://places.googleapis.com/v1/places:searchText
+2025-02-20 18:25:59,103 - DEBUG - Starting new HTTPS connection (1): places.googleapis.com:443
+2025-02-20 18:25:59,655 - DEBUG - https://places.googleapis.com:443 "POST /v1/places:searchText HTTP/1.1" 403 None
+2025-02-20 18:25:59,655 - DEBUG - API Response status: 403
+2025-02-20 18:25:59,656 - DEBUG - API Response headers: {'Vary': 'Origin, X-Origin, Referer', 'Content-Type': 'application/json; charset=UTF-8', 'Content-Encoding': 'gzip', 'Date': 'Thu, 20 Feb 2025 12:55:59 GMT', 'Server': 'scaffolding on HTTPServer2', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'X-Content-Type-Options': 'nosniff', 'Server-Timing': 'gfet4t7; dur=214', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'Transfer-Encoding': 'chunked'}
+2025-02-20 18:25:59,656 - ERROR - API request failed: {
+  "error": {
+    "code": 403,
+    "message": "Places API (New) has not been used in project 466438418325 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/places.googleapis.com/overview?project=466438418325 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "serviceTitle": "Places API (New)",
+          "activationUrl": "https://console.developers.google.com/apis/api/places.googleapis.com/overview?project=466438418325",
+          "consumer": "projects/466438418325",
+          "containerInfo": "466438418325",
+          "service": "places.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Places API (New) has not been used in project 466438418325 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/places.googleapis.com/overview?project=466438418325 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/places.googleapis.com/overview?project=466438418325"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-02-20 18:25:59,662 - INFO - Enhanced data saved to enhanced_dataset.csv
+2025-02-20 18:28:12,933 - INFO - Loaded CSV file with 3737 rows
+2025-02-20 18:28:12,933 - INFO - Test mode: Processing first 5 rows only
+2025-02-20 18:28:12,935 - DEBUG - Search query: Gamble Plumbing HVAC Raleigh USA
+2025-02-20 18:28:12,935 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:28:12,938 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:28:13,742 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Gamble+Plumbing+HVAC+Raleigh+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY&fields=formatted_address%2Cname%2Cplace_id%2Crating%2Cuser_ratings_total%2Cwebsite%2Cformatted_phone_number HTTP/1.1" 200 2209
+2025-02-20 18:28:13,744 - DEBUG - API Response status: 200
+2025-02-20 18:28:13,744 - DEBUG - API Response headers: {'Content-Type': 'application/json; charset=UTF-8', 'Date': 'Thu, 20 Feb 2025 12:58:13 GMT', 'Expires': 'Thu, 20 Feb 2025 13:03:13 GMT', 'Cache-Control': 'public, max-age=300', 'Vary': 'Accept-Language', 'Content-Security-Policy-Report-Only': "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/msaipomnpc:993:0", 'Cross-Origin-Opener-Policy-Report-Only': 'same-origin; report-to=msaipomnpc:993:0', 'Report-To': '{"group":"msaipomnpc:993:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/msaipomnpc:993:0"}],}', 'Server': 'scaffolding on HTTPServer2', 'Content-Length': '2209', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'Server-Timing': 'gfet4t7; dur=360', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}
+2025-02-20 18:28:13,745 - DEBUG - API Response body: {
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1027 US-70 Suite 107, Garner, NC 27529, United States",
+      "geometry": {
+        "location": {
+          "lat": 35.7158511,
+          "lng": -78.6338684
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.71730607989273,
+            "lng": -78.63245252010728
+          },
+          "southwest": {
+            "lat": 35.71460642010729,
+            "lng": -78.63515217989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Gamble Plumbing Heating and Air Conditioning",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116025460688643796374\">A Google User</a>"
+          ],
+          "photo_reference": "AVzFdbmz1x3tvvrOG-_amMmxobpXqEqHKNJMnnnTdvqkULs9sO9arAGT-w2ywuZ2R4RxiivbYyD3pmo6KClkuJqzuyg_YniqwIt0qp-dBiNx0iq6mi-0TLfvstb5A1XrrJTx1F1IjBRSXNwAfEvRV5k4oZ_fVCX2z96SvO9gTt9nIBy_LGLM5lVVGiCp",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJMTaCvEZhrIkRWFk112PjER0",
+      "plus_code": {
+        "compound_code": "P988+8F Garner, North Carolina, USA",
+        "global_code": "8773P988+8F"
+      },
+      "rating": 4.8,
+      "reference": "ChIJMTaCvEZhrIkRWFk112PjER0",
+      "types": [
+        "plumber",
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 23
+    }
+  ],
+  "status": "OK"
+}
+2025-02-20 18:28:13,749 - WARNING - No matching place found for Gamble Plumbing HVAC with domain gambletheplumber.com
+2025-02-20 18:28:13,752 - DEBUG - Search query: Spurk HVAC Pittsburgh USA
+2025-02-20 18:28:13,753 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:28:13,755 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:28:14,454 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Spurk+HVAC+Pittsburgh+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY&fields=formatted_address%2Cname%2Cplace_id%2Crating%2Cuser_ratings_total%2Cwebsite%2Cformatted_phone_number HTTP/1.1" 200 2209
+2025-02-20 18:28:14,455 - DEBUG - API Response status: 200
+2025-02-20 18:28:14,455 - DEBUG - API Response headers: {'Content-Type': 'application/json; charset=UTF-8', 'Date': 'Thu, 20 Feb 2025 12:58:14 GMT', 'Expires': 'Thu, 20 Feb 2025 13:03:14 GMT', 'Cache-Control': 'public, max-age=300', 'Vary': 'Accept-Language', 'Content-Security-Policy-Report-Only': "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/msaipomnpc:993:0", 'Cross-Origin-Opener-Policy-Report-Only': 'same-origin; report-to=msaipomnpc:993:0', 'Report-To': '{"group":"msaipomnpc:993:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/msaipomnpc:993:0"}],}', 'Server': 'scaffolding on HTTPServer2', 'Content-Length': '2209', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'Server-Timing': 'gfet4t7; dur=343', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}
+2025-02-20 18:28:14,456 - DEBUG - API Response body: {
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "355 Northgate Dr, Warrendale, PA 15086, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.6557124,
+          "lng": -80.0837384
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.65710647989272,
+            "lng": -80.08233947010727
+          },
+          "southwest": {
+            "lat": 40.65440682010728,
+            "lng": -80.08503912989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Spurk HVAC, LLC.",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3025,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109117370028909351652\">A Google User</a>"
+          ],
+          "photo_reference": "AVzFdbkSypVf1F2lQ8-uBTLM9pSCFZQZLZxrpn0EUxXwqIFmCqkPhs-UgPGnuO_T0AeFlFyyHYAYhzt2Z5iCyxrhFqV3E9U1ejPj8aiXLuKTa5nmOyLkRsaCG-kIxBydfpyVr_rH848sYg_wN6ciQ3VOpasLZh6PEV3zm7Km6ETx0nhcGOjaTWW3u8TQ",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJoXu4xneINIgRldjD20nbkdQ",
+      "plus_code": {
+        "compound_code": "MW48+7G Warrendale, Pennsylvania, USA",
+        "global_code": "86GXMW48+7G"
+      },
+      "rating": 4.9,
+      "reference": "ChIJoXu4xneINIgRldjD20nbkdQ",
+      "types": [
+        "car_dealer",
+        "general_contractor",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 402
+    }
+  ],
+  "status": "OK"
+}
+2025-02-20 18:28:14,459 - WARNING - No matching place found for Spurk HVAC with domain spurkhvac.com
+2025-02-20 18:28:14,461 - DEBUG - Search query: Pliescott HVAC Services Cambridge USA
+2025-02-20 18:28:14,461 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:28:14,462 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:28:15,082 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Pliescott+HVAC+Services+Cambridge+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY&fields=formatted_address%2Cname%2Cplace_id%2Crating%2Cuser_ratings_total%2Cwebsite%2Cformatted_phone_number HTTP/1.1" 200 1514
+2025-02-20 18:28:15,083 - DEBUG - API Response status: 200
+2025-02-20 18:28:15,083 - DEBUG - API Response headers: {'Content-Type': 'application/json; charset=UTF-8', 'Date': 'Thu, 20 Feb 2025 12:58:15 GMT', 'Expires': 'Thu, 20 Feb 2025 13:03:15 GMT', 'Cache-Control': 'public, max-age=300', 'Vary': 'Accept-Language', 'Content-Security-Policy-Report-Only': "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/msaipomnpc:993:0", 'Cross-Origin-Opener-Policy-Report-Only': 'same-origin; report-to=msaipomnpc:993:0', 'Report-To': '{"group":"msaipomnpc:993:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/msaipomnpc:993:0"}],}', 'Server': 'scaffolding on HTTPServer2', 'Content-Length': '1514', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'Server-Timing': 'gfet4t7; dur=260', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}
+2025-02-20 18:28:15,083 - DEBUG - API Response body: {
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "100 Goodwill Rd, Cambridge, MD 21613, United States",
+      "geometry": {
+        "location": {
+          "lat": 38.55921,
+          "lng": -76.0730136
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.56054337989273,
+            "lng": -76.07168207010727
+          },
+          "southwest": {
+            "lat": 38.55784372010728,
+            "lng": -76.07438172989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Pliescott HVAC Services",
+      "place_id": "ChIJCXjLpz1KuIkRtVrbcXnAHd4",
+      "plus_code": {
+        "compound_code": "HW5G+PV Cambridge, Maryland, USA",
+        "global_code": "87C5HW5G+PV"
+      },
+      "rating": 4.1,
+      "reference": "ChIJCXjLpz1KuIkRtVrbcXnAHd4",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 9
+    }
+  ],
+  "status": "OK"
+}
+2025-02-20 18:28:15,086 - WARNING - No matching place found for Pliescott HVAC Services with domain pliescotthvac.com
+2025-02-20 18:28:15,087 - DEBUG - Search query: Tetteris HVAC Frederick USA
+2025-02-20 18:28:15,088 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:28:15,089 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:28:15,732 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Tetteris+HVAC+Frederick+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY&fields=formatted_address%2Cname%2Cplace_id%2Crating%2Cuser_ratings_total%2Cwebsite%2Cformatted_phone_number HTTP/1.1" 200 80
+2025-02-20 18:28:15,733 - DEBUG - API Response status: 200
+2025-02-20 18:28:15,733 - DEBUG - API Response headers: {'Content-Type': 'application/json; charset=UTF-8', 'Date': 'Thu, 20 Feb 2025 12:58:15 GMT', 'Expires': 'Thu, 20 Feb 2025 13:03:15 GMT', 'Cache-Control': 'public, max-age=300', 'Vary': 'Accept-Language', 'Content-Security-Policy-Report-Only': "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/msaipomnpc:993:0", 'Cross-Origin-Opener-Policy-Report-Only': 'same-origin; report-to=msaipomnpc:993:0', 'Report-To': '{"group":"msaipomnpc:993:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/msaipomnpc:993:0"}],}', 'Server': 'scaffolding on HTTPServer2', 'Content-Length': '80', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'Server-Timing': 'gfet4t7; dur=281', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}
+2025-02-20 18:28:15,734 - DEBUG - API Response body: {
+  "html_attributions": [],
+  "results": [],
+  "status": "ZERO_RESULTS"
+}
+2025-02-20 18:28:15,734 - WARNING - No places found for query: Tetteris HVAC Frederick USA
+2025-02-20 18:28:15,736 - DEBUG - Search query: ProfAir HVAC New York USA
+2025-02-20 18:28:15,736 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:28:15,737 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:28:16,578 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=ProfAir+HVAC+New+York+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY&fields=formatted_address%2Cname%2Cplace_id%2Crating%2Cuser_ratings_total%2Cwebsite%2Cformatted_phone_number HTTP/1.1" 200 2174
+2025-02-20 18:28:16,578 - DEBUG - API Response status: 200
+2025-02-20 18:28:16,579 - DEBUG - API Response headers: {'Content-Type': 'application/json; charset=UTF-8', 'Date': 'Thu, 20 Feb 2025 12:58:16 GMT', 'Expires': 'Thu, 20 Feb 2025 13:03:16 GMT', 'Cache-Control': 'public, max-age=300', 'Vary': 'Accept-Language', 'Content-Security-Policy-Report-Only': "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/msaipomnpc:993:0", 'Cross-Origin-Opener-Policy-Report-Only': 'same-origin; report-to=msaipomnpc:993:0', 'Report-To': '{"group":"msaipomnpc:993:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/msaipomnpc:993:0"}],}', 'Server': 'scaffolding on HTTPServer2', 'Content-Length': '2174', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'Server-Timing': 'gfet4t7; dur=486', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}
+2025-02-20 18:28:16,579 - DEBUG - API Response body: {
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "542 3rd Ave, Brooklyn, NY 11215, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.668874,
+          "lng": -73.99363149999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.67014432989271,
+            "lng": -73.99213252010728
+          },
+          "southwest": {
+            "lat": 40.66744467010727,
+            "lng": -73.99483217989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Profair LTS Corp",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116611168254981887701\">A Google User</a>"
+          ],
+          "photo_reference": "AVzFdbmHHdZQ1NVLnHuXleYLD9z7bb4_HDgbeRL5JvTk6MpdGolGo7FQkdaogkeww2Xp0ozkuPzjGouhIqdZeGIgJ-Kk-bOCJBTZwqCsJF29SkyqU_R9RCRFLzeYtWXMjwbPwAnADehtPUK2uT5dM6-PzTv6KBbf5Bz_QlT5ODkI-bvwQUYmcx0pRiKQ",
+          "width": 959
+        }
+      ],
+      "place_id": "ChIJJ3_cW8ZbwokRHXi5hj-si28",
+      "plus_code": {
+        "compound_code": "M294+GG Brooklyn, New York, USA",
+        "global_code": "87G8M294+GG"
+      },
+      "rating": 5,
+      "reference": "ChIJJ3_cW8ZbwokRHXi5hj-si28",
+      "types": [
+        "general_contractor",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 15
+    }
+  ],
+  "status": "OK"
+}
+2025-02-20 18:28:16,582 - WARNING - No matching place found for ProfAir HVAC with domain profaircorp.com
+2025-02-20 18:28:16,587 - INFO - Enhanced data saved to enhanced_dataset.csv
+2025-02-20 18:30:02,932 - INFO - Loaded CSV file with 3737 rows
+2025-02-20 18:30:02,932 - INFO - Test mode: Processing first 5 rows only
+2025-02-20 18:30:02,934 - DEBUG - Search query: Gamble Raleigh USA
+2025-02-20 18:30:02,935 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:30:02,937 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:30:03,706 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Gamble+Raleigh+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY&fields=formatted_address%2Cname%2Cplace_id%2Crating%2Cuser_ratings_total%2Cwebsite%2Cformatted_phone_number HTTP/1.1" 200 13354
+2025-02-20 18:30:03,710 - DEBUG - API Response status: 200
+2025-02-20 18:30:03,710 - DEBUG - API Response headers: {'Content-Type': 'application/json; charset=UTF-8', 'Date': 'Thu, 20 Feb 2025 13:00:03 GMT', 'Expires': 'Thu, 20 Feb 2025 13:05:03 GMT', 'Cache-Control': 'public, max-age=300', 'Vary': 'Accept-Language', 'Content-Security-Policy-Report-Only': "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/msaipomnpc:993:0", 'Cross-Origin-Opener-Policy-Report-Only': 'same-origin; report-to=msaipomnpc:993:0', 'Report-To': '{"group":"msaipomnpc:993:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/msaipomnpc:993:0"}],}', 'Server': 'scaffolding on HTTPServer2', 'Content-Length': '13354', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'Server-Timing': 'gfet4t7; dur=388', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}
+2025-02-20 18:30:03,711 - DEBUG - API Response body: {
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "5540 Atlantic Springs Rd Ste 107-106, Raleigh, NC 27616, United States",
+      "geometry": {
+        "location": {
+          "lat": 35.8583374,
+          "lng": -78.5961126
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.85982012989271,
+            "lng": -78.59484182010728
+          },
+          "southwest": {
+            "lat": 35.85712047010727,
+            "lng": -78.59754147989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Vegas Style Sweepstakes & Entertainment",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112694960383084448033\">mike griffin</a>"
+          ],
+          "photo_reference": "AVzFdbkgUw6n1MWM-2xeRsMeqMihsHlhM28q4yoZenxi10gfUaeNzajbCyjRjsASPwhxl4UrPtuKx9iA52Idpk9vstMvJCC5GCFb0d6JWQ-uWzAKRD0zkqbbsXZMQuGE0UBYoHnkoklkBWrpb0zVxCUeVrmKH9hAIeEougMwZi7y6KG1O_s_Owj335Wz",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ577TReVZrIkREh6BijWirSg",
+      "plus_code": {
+        "compound_code": "VC53+8H Raleigh, North Carolina, USA",
+        "global_code": "8773VC53+8H"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ577TReVZrIkREh6BijWirSg",
+      "types": [
+        "casino",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 293
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "5921 Summit Ave, Browns Summit, NC 27214, United States",
+      "geometry": {
+        "location": {
+          "lat": 36.1768212,
+          "lng": -79.72037209999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.17795012989272,
+            "lng": -79.71904482010729
+          },
+          "southwest": {
+            "lat": 36.17525047010728,
+            "lng": -79.72174447989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Procter & Gamble Storeroom",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110899070115466314430\">Mike Spangler</a>"
+          ],
+          "photo_reference": "AVzFdbmgdXVBKnFWlIWO6-KiKd6Km62kuiU1op0Ngv1W3nad9uJxLdew93M4X77NSCneitBgEgSVymqLlGlj0v0dLKLFyfHx5Q8ahDSHSkBruUuzghrb6IAAje4erV6cTTK9Hc-Ab7XSamUYcT2Ray_SJKoilG5ULsc1oOov8fjdBzhDqp72_GktUs-7",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJv2z62vDfUogRvfeO7uihoT8",
+      "plus_code": {
+        "compound_code": "57GH+PV Browns Summit, North Carolina, USA",
+        "global_code": "878257GH+PV"
+      },
+      "rating": 2.3,
+      "reference": "ChIJv2z62vDfUogRvfeO7uihoT8",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 83
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "3000 New Bern Ave # 1130, Raleigh, NC 27610, United States",
+      "geometry": {
+        "location": {
+          "lat": 35.7842976,
+          "lng": -78.58666629999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.78561597989272,
+            "lng": -78.58532337010728
+          },
+          "southwest": {
+            "lat": 35.78291632010728,
+            "lng": -78.58802302989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Krogh Sara M",
+      "place_id": "ChIJLQ_wxb9erIkRqQbTUGElniQ",
+      "plus_code": {
+        "compound_code": "QCM7+P8 Raleigh, North Carolina, USA",
+        "global_code": "8773QCM7+P8"
+      },
+      "rating": 0,
+      "reference": "ChIJLQ_wxb9erIkRqQbTUGElniQ",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 0
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "7554 St Helena Hwy, Napa, CA 94558, United States",
+      "geometry": {
+        "location": {
+          "lat": 38.4289505,
+          "lng": -122.3868412
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.43025582989272,
+            "lng": -122.3855411701073
+          },
+          "southwest": {
+            "lat": 38.42755617010728,
+            "lng": -122.3882408298927
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Gamble Estates",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3497,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101048938025666112247\">A Google User</a>"
+          ],
+          "photo_reference": "AVzFdbm5QKI6gOEOqipAq448MntZnRt7gVioy71vOdUbX7WhLHog40cNw5bERag0-ozUJvtAztxN1UYP4LW0ZJGr6U2Xu3jf5TUe-jmuS2yBgJiyIvlTNnvqYdSxGmSf3g7QE2v7JQdHzpN8ScEN6jPTTuyzuvsWjKQIanMcAprSpJKBmKqBaS0HCv0p",
+          "width": 7538
+        }
+      ],
+      "place_id": "ChIJwWKemgdVhIARLCODsMVlghQ",
+      "plus_code": {
+        "compound_code": "CJH7+H7 Napa, California, USA",
+        "global_code": "84CVCJH7+H7"
+      },
+      "rating": 5,
+      "reference": "ChIJwWKemgdVhIARLCODsMVlghQ",
+      "types": [
+        "tourist_attraction",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 20
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "2600 Sumner Blvd, Raleigh, NC 27616, United States",
+      "geometry": {
+        "location": {
+          "lat": 35.872909,
+          "lng": -78.5916245
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.87419357989273,
+            "lng": -78.58951884999998
+          },
+          "southwest": {
+            "lat": 35.87149392010728,
+            "lng": -78.59247744999999
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ggb Candies",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108710189401668907777\">\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0417\u0430\u043d\u043a\u0435\u0432\u0438\u0447</a>"
+          ],
+          "photo_reference": "AVzFdbn9t0QiWU_Bs_TSeRM158JDVlqxtIFPjdYj6JBH0BdG0ZP00_MxiOTNU8xE1ce_216EK3nHxmrskExqd8PG2gr1PzyxFD3ZsNzXC-lczSeC5eRIOm-QgVzf119AVvN1pZjojF_vgu9o0AlzZfzs4MPt6rfnb4upgRdD8Ju9ym3Mq9_5xShGQLvP",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJX6b0VppZrIkRBPXjgQM88mY",
+      "plus_code": {
+        "compound_code": "VCF5+59 Raleigh, North Carolina, USA",
+        "global_code": "8773VCF5+59"
+      },
+      "rating": 3.8,
+      "reference": "ChIJX6b0VppZrIkRBPXjgQM88mY",
+      "types": [
+        "storage",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4
+    },
+    {
+      "business_status": "CLOSED_PERMANENTLY",
+      "formatted_address": "3000 New Bern Ave, Raleigh, NC 27610, United States",
+      "geometry": {
+        "location": {
+          "lat": 35.7847426,
+          "lng": -78.5878042
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.78649197989273,
+            "lng": -78.58604902010727
+          },
+          "southwest": {
+            "lat": 35.78379232010728,
+            "lng": -78.58874867989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Gamble Renee",
+      "permanently_closed": true,
+      "place_id": "ChIJLQ_wxb9erIkRQtr_BEo0c2c",
+      "plus_code": {
+        "compound_code": "QCM6+VV Raleigh, North Carolina, USA",
+        "global_code": "8773QCM6+VV"
+      },
+      "rating": 0,
+      "reference": "ChIJLQ_wxb9erIkRQtr_BEo0c2c",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 0
+    },
+    {
+      "business_status": "CLOSED_PERMANENTLY",
+      "formatted_address": "2305 E Millbrook Rd, Raleigh, NC 27604, United States",
+      "geometry": {
+        "location": {
+          "lat": 35.8487513,
+          "lng": -78.5969831
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.84992797989272,
+            "lng": -78.59555832010727
+          },
+          "southwest": {
+            "lat": 35.84722832010728,
+            "lng": -78.59825797989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Big Skill Win",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105664568813315020663\">A Google User</a>"
+          ],
+          "photo_reference": "AVzFdbkfBDQGcj8UpvSjDXCmPYcAv1WLqPDAc4s9DJgFEyhuZWi0kus_gPH8QCms14VK2jJi9-dgzTRf1csV0SSbOu7B_Lkib-9ABRQiTQlGO0K511oImImKKXDmk3t_cuBGotPNZuk49CkTe9vDsYwGIRGSAMgQW_StXSLXBqNkmlSW8LnyTWhbvN35",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ3Zt05jZZrIkRu9BbwC6bNjo",
+      "plus_code": {
+        "compound_code": "RCX3+G6 Raleigh, North Carolina, USA",
+        "global_code": "8773RCX3+G6"
+      },
+      "rating": 4.1,
+      "reference": "ChIJ3Zt05jZZrIkRu9BbwC6bNjo",
+      "types": [
+        "casino",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7
+    }
+  ],
+  "status": "OK"
+}
+2025-02-20 18:30:03,734 - WARNING - No matching place found for Gamble with domain gambletheplumber.com
+2025-02-20 18:30:03,735 - DEBUG - Search query: Spurk Pittsburgh USA
+2025-02-20 18:30:03,736 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:30:03,737 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:30:04,543 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Spurk+Pittsburgh+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY&fields=formatted_address%2Cname%2Cplace_id%2Crating%2Cuser_ratings_total%2Cwebsite%2Cformatted_phone_number HTTP/1.1" 200 2209
+2025-02-20 18:30:04,544 - DEBUG - API Response status: 200
+2025-02-20 18:30:04,545 - DEBUG - API Response headers: {'Content-Type': 'application/json; charset=UTF-8', 'Date': 'Thu, 20 Feb 2025 13:00:04 GMT', 'Expires': 'Thu, 20 Feb 2025 13:05:04 GMT', 'Cache-Control': 'public, max-age=300', 'Vary': 'Accept-Language', 'Content-Security-Policy-Report-Only': "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/msaipomnpc:993:0", 'Cross-Origin-Opener-Policy-Report-Only': 'same-origin; report-to=msaipomnpc:993:0', 'Report-To': '{"group":"msaipomnpc:993:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/msaipomnpc:993:0"}],}', 'Server': 'scaffolding on HTTPServer2', 'Content-Length': '2209', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'Server-Timing': 'gfet4t7; dur=442', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}
+2025-02-20 18:30:04,546 - DEBUG - API Response body: {
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "355 Northgate Dr, Warrendale, PA 15086, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.6557124,
+          "lng": -80.0837384
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.65710647989272,
+            "lng": -80.08233947010727
+          },
+          "southwest": {
+            "lat": 40.65440682010728,
+            "lng": -80.08503912989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Spurk HVAC, LLC.",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1125,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109117370028909351652\">A Google User</a>"
+          ],
+          "photo_reference": "AVzFdbmDPtXy5vXg_ncR5RXynIlLbiCcHjJ5K4HP5Dt8OGS08JHvhdTGYhM_jwObgZvF8SDROBVE2of41rIoDCmZQq3Mv2V9zw-DN8hToIZMoWnKkp1rCT9Fy7Q1KaZCGz3tG1vhraC6-MSTeZaJMpszb9BI3Qyz2dfjxdBRWfkFbz4c8mmceOBkL-ap",
+          "width": 1500
+        }
+      ],
+      "place_id": "ChIJoXu4xneINIgRldjD20nbkdQ",
+      "plus_code": {
+        "compound_code": "MW48+7G Warrendale, Pennsylvania, USA",
+        "global_code": "86GXMW48+7G"
+      },
+      "rating": 4.9,
+      "reference": "ChIJoXu4xneINIgRldjD20nbkdQ",
+      "types": [
+        "car_dealer",
+        "general_contractor",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 402
+    }
+  ],
+  "status": "OK"
+}
+2025-02-20 18:30:04,550 - WARNING - No matching place found for Spurk with domain spurkhvac.com
+2025-02-20 18:30:04,552 - DEBUG - Search query: Pliescott Cambridge USA
+2025-02-20 18:30:04,552 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:30:04,554 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:30:05,225 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Pliescott+Cambridge+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY&fields=formatted_address%2Cname%2Cplace_id%2Crating%2Cuser_ratings_total%2Cwebsite%2Cformatted_phone_number HTTP/1.1" 200 1514
+2025-02-20 18:30:05,225 - DEBUG - API Response status: 200
+2025-02-20 18:30:05,226 - DEBUG - API Response headers: {'Content-Type': 'application/json; charset=UTF-8', 'Date': 'Thu, 20 Feb 2025 13:00:05 GMT', 'Expires': 'Thu, 20 Feb 2025 13:05:05 GMT', 'Cache-Control': 'public, max-age=300', 'Vary': 'Accept-Language', 'Content-Security-Policy-Report-Only': "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/msaipomnpc:993:0", 'Cross-Origin-Opener-Policy-Report-Only': 'same-origin; report-to=msaipomnpc:993:0', 'Report-To': '{"group":"msaipomnpc:993:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/msaipomnpc:993:0"}],}', 'Server': 'scaffolding on HTTPServer2', 'Content-Length': '1514', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'Server-Timing': 'gfet4t7; dur=299', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}
+2025-02-20 18:30:05,226 - DEBUG - API Response body: {
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "100 Goodwill Rd, Cambridge, MD 21613, United States",
+      "geometry": {
+        "location": {
+          "lat": 38.55921,
+          "lng": -76.0730136
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.56054337989273,
+            "lng": -76.07168207010727
+          },
+          "southwest": {
+            "lat": 38.55784372010728,
+            "lng": -76.07438172989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Pliescott HVAC Services",
+      "place_id": "ChIJCXjLpz1KuIkRtVrbcXnAHd4",
+      "plus_code": {
+        "compound_code": "HW5G+PV Cambridge, Maryland, USA",
+        "global_code": "87C5HW5G+PV"
+      },
+      "rating": 4.1,
+      "reference": "ChIJCXjLpz1KuIkRtVrbcXnAHd4",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 9
+    }
+  ],
+  "status": "OK"
+}
+2025-02-20 18:30:05,229 - WARNING - No matching place found for Pliescott with domain pliescotthvac.com
+2025-02-20 18:30:05,230 - DEBUG - Search query: Tetteris Frederick USA
+2025-02-20 18:30:05,230 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:30:05,231 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:30:06,033 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Tetteris+Frederick+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY&fields=formatted_address%2Cname%2Cplace_id%2Crating%2Cuser_ratings_total%2Cwebsite%2Cformatted_phone_number HTTP/1.1" 200 80
+2025-02-20 18:30:06,033 - DEBUG - API Response status: 200
+2025-02-20 18:30:06,034 - DEBUG - API Response headers: {'Content-Type': 'application/json; charset=UTF-8', 'Date': 'Thu, 20 Feb 2025 13:00:05 GMT', 'Expires': 'Thu, 20 Feb 2025 13:05:05 GMT', 'Cache-Control': 'public, max-age=300', 'Vary': 'Accept-Language', 'Content-Security-Policy-Report-Only': "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/msaipomnpc:993:0", 'Cross-Origin-Opener-Policy-Report-Only': 'same-origin; report-to=msaipomnpc:993:0', 'Report-To': '{"group":"msaipomnpc:993:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/msaipomnpc:993:0"}],}', 'Server': 'scaffolding on HTTPServer2', 'Content-Length': '80', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'Server-Timing': 'gfet4t7; dur=438', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}
+2025-02-20 18:30:06,034 - DEBUG - API Response body: {
+  "html_attributions": [],
+  "results": [],
+  "status": "ZERO_RESULTS"
+}
+2025-02-20 18:30:06,035 - WARNING - No places found for query: Tetteris Frederick USA
+2025-02-20 18:30:06,036 - DEBUG - Search query: Prof New York USA
+2025-02-20 18:30:06,037 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:30:06,038 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:30:06,952 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Prof+New+York+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY&fields=formatted_address%2Cname%2Cplace_id%2Crating%2Cuser_ratings_total%2Cwebsite%2Cformatted_phone_number HTTP/1.1" 200 35719
+2025-02-20 18:30:07,005 - DEBUG - API Response status: 200
+2025-02-20 18:30:07,006 - DEBUG - API Response headers: {'Content-Type': 'application/json; charset=UTF-8', 'Date': 'Thu, 20 Feb 2025 13:00:06 GMT', 'Expires': 'Thu, 20 Feb 2025 13:05:06 GMT', 'Cache-Control': 'public, max-age=300', 'Vary': 'Accept-Language', 'Content-Security-Policy-Report-Only': "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/msaipomnpc:993:0", 'Cross-Origin-Opener-Policy-Report-Only': 'same-origin; report-to=msaipomnpc:993:0', 'Report-To': '{"group":"msaipomnpc:993:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/msaipomnpc:993:0"}],}', 'Server': 'scaffolding on HTTPServer2', 'Content-Length': '35719', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'Server-Timing': 'gfet4t7; dur=565', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}
+2025-02-20 18:30:07,007 - DEBUG - API Response body: {
+  "html_attributions": [],
+  "next_page_token": "AVzFdbmtyMoWKhF1gNy3uYuXV6g_Ma8Hvs-4tqUorGdULN9uS3QTBOJqavpi9on_xMEvX6F51Fxgrojq-5GgI-6mNmxCESndniR5zIgtNKhjK3u2DuJW8mMY8_6G-6TOHa8tsdN7WovpgPzV2Y6ebGnjvBe1oS4GHJtJpWFTPupiP1Y1LszGsjozqmdTYVEZB4Xb6VcfLFNLQUmIvgleQdW_qi2aapMzfsjeFwFKu9CBXuwtAfz0Bz73qZA78OqMOgcjOz6_V0BU6ecQWD6guSWdOZchjJC5IelloNtFIoxL7vzpzRb-sSnn2PjjEtopkp6Y3ucrCqRYNDBCyN3-hqDWF5kaFVMCdn3ph2RWjfOyTs9FxZVpcNFxqaTiOhflYVdWEV3OFjpP35ishN6mK_Cd",
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "7 E 12th St, New York, NY 10003, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.734457,
+          "lng": -73.993765
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73573212989272,
+            "lng": -73.99235247010726
+          },
+          "southwest": {
+            "lat": 40.73303247010728,
+            "lng": -73.99505212989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "NYU School of Professional Studies",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106416248199999190893\">Tony D&#39;Antonio</a>"
+          ],
+          "photo_reference": "AVzFdbmO1giF5Hbtj-0UHstp3qKVkjMjIPwpH5NFCXphvJ8Ae2ji6-tJB3lbUzKXEWo8J77oA3bGzeKo0Qq-bhQxmCGVnebzE6mr8bfciIjE1HgIz7NlX4iUtyg5_V_XtiYXqXWeKtjdecuBT6caZ2RS6v_aCOog3If64zZS4qy-3buBie5JXk_9sZY1",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ92Ka15hZwokReVs-5x6Mlrs",
+      "plus_code": {
+        "compound_code": "P2M4+QF New York, USA",
+        "global_code": "87G8P2M4+QF"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ92Ka15hZwokReVs-5x6Mlrs",
+      "types": [
+        "university",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 40
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "291 Broadway #810, New York, NY 10007, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.7149226,
+          "lng": -74.006079
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71616917989273,
+            "lng": -74.00464162010728
+          },
+          "southwest": {
+            "lat": 40.71346952010729,
+            "lng": -74.00734127989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Foot Doctor of New York",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1256,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107400960245242129182\">A Google User</a>"
+          ],
+          "photo_reference": "AVzFdbk0JdQebCnzGCOeRznm7ba9J05xhV3hzV-wAwzWZOJegXxJfrryGaLq7IU1ZmlZo46Tyd02MAVRJa0dkT6phACp98PuXL2WoiegKrFqAvI1mOE2sDlstciCN5WVk5q7mvW-AwSBAqHUiVjLkrsHCzzlLwXU9nrtSUx0RCmfiagxDNwA4sgRcXcf",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJndUAuhFbwokRz3QRzJRtSyU",
+      "plus_code": {
+        "compound_code": "PX7V+XH New York, USA",
+        "global_code": "87G7PX7V+XH"
+      },
+      "rating": 5,
+      "reference": "ChIJndUAuhFbwokRz3QRzJRtSyU",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 184
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "150 E 55th St, New York, NY 10022, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.7591628,
+          "lng": -73.9694049
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76058057989272,
+            "lng": -73.96800857010727
+          },
+          "southwest": {
+            "lat": 40.75788092010728,
+            "lng": -73.97070822989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Masahide D Kanayama MD. New York Endometriosis Center",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJXzJZk-RYwokRZqfqWDZnD_M",
+      "plus_code": {
+        "compound_code": "Q25J+M6 New York, USA",
+        "global_code": "87G8Q25J+M6"
+      },
+      "rating": 5,
+      "reference": "ChIJXzJZk-RYwokRZqfqWDZnD_M",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "145 Fourth Avenue, 145 4th Ave, New York, NY 10003, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.7339026,
+          "lng": -73.9895329
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73522707989272,
+            "lng": -73.98833792010728
+          },
+          "southwest": {
+            "lat": 40.73252742010727,
+            "lng": -73.99103757989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "School Continuing Prof Studies",
+      "place_id": "ChIJnWmK2JhZwokR6vdBq4cdIOQ",
+      "plus_code": {
+        "compound_code": "P2M6+H5 New York, USA",
+        "global_code": "87G8P2M6+H5"
+      },
+      "rating": 0,
+      "reference": "ChIJnWmK2JhZwokR6vdBq4cdIOQ",
+      "types": [
+        "university",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 0
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "433 E 82nd St Apt. 4E, New York, NY 10028, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.7737512,
+          "lng": -73.9494428
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77501602989273,
+            "lng": -73.94815567010727
+          },
+          "southwest": {
+            "lat": 40.77231637010728,
+            "lng": -73.95085532989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Jonathan Saraga",
+      "photos": [
+        {
+          "height": 1196,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105135723651371995925\">A Google User</a>"
+          ],
+          "photo_reference": "AVzFdblmFXKiHqPJESlJmBSSJv6GFm1UyColkKn6Or9vUDPV-M0Sh66Ml8GkZT7flZIFjC3qqE1ptosnaEDm5mDHfAUW51YxIagmLlOT9MOwlKb6a-4QrrQXV02Gy140wE-IjNM3xT7lCrmpSSfSqNjAw5FWG0wp1WSVyYCCqkwr4pwxxHGvmGPUni_D",
+          "width": 750
+        }
+      ],
+      "place_id": "ChIJ-37rTzFZwokRp03dbF2Zaxw",
+      "plus_code": {
+        "compound_code": "Q3F2+G6 New York, USA",
+        "global_code": "87G8Q3F2+G6"
+      },
+      "rating": 5,
+      "reference": "ChIJ-37rTzFZwokRp03dbF2Zaxw",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 21
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "322 E River Dr, New York, NY 10002, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.7111685,
+          "lng": -73.9828077
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71250277989272,
+            "lng": -73.98165417010726
+          },
+          "southwest": {
+            "lat": 40.70980312010727,
+            "lng": -73.98435382989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+      "name": "322 E River Dr Parking",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJZd-crdRbwokRTC1qF9Q79Ls",
+      "plus_code": {
+        "compound_code": "P268+FV New York, USA",
+        "global_code": "87G8P268+FV"
+      },
+      "rating": 5,
+      "reference": "ChIJZd-crdRbwokRTC1qF9Q79Ls",
+      "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "5 Washington Square N, New York, NY 10003, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.7311336,
+          "lng": -73.9959066
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73239687989273,
+            "lng": -73.99463032010728
+          },
+          "southwest": {
+            "lat": 40.72969722010728,
+            "lng": -73.99732997989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "NYU Arts and Science",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101357025295168809658\">Chris 8356</a>"
+          ],
+          "photo_reference": "AVzFdblFR9OXSyi3sV09qi6kUanGcCbZi_iTTfbDRGG03j-9FsCWHcjUqzd0vTWZoLCbx3AIYfUoDFsxNB_b3UL1S9-AlVlNINheQdDOhJkVJITr2q4aOTakl67EgwB401DNXuMj0b7B_dvC4-MJrzZsXGWkatLkRGjVdDR7XVGMwx_EvvN-3mCD98sb",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJe0cjvJBZwokRQvUBwWERHkw",
+      "plus_code": {
+        "compound_code": "P2J3+FJ New York, USA",
+        "global_code": "87G8P2J3+FJ"
+      },
+      "rating": 4.1,
+      "reference": "ChIJe0cjvJBZwokRQvUBwWERHkw",
+      "types": [
+        "university",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 15
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "168 Canal St Fl 4, New York, NY 10013, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.7163285,
+          "lng": -73.99734389999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71774852989272,
+            "lng": -73.99584892010726
+          },
+          "southwest": {
+            "lat": 40.71504887010727,
+            "lng": -73.99854857989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Zhi Hang Lin, Financial Professional - New York Life",
+      "place_id": "ChIJ-yMfulpbwokRMxLodSQJudk",
+      "plus_code": {
+        "compound_code": "P283+G3 New York, USA",
+        "global_code": "87G8P283+G3"
+      },
+      "rating": 0,
+      "reference": "ChIJ-yMfulpbwokRMxLodSQJudk",
+      "types": [
+        "insurance_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 0
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "168 Canal St Fl 4, New York, NY 10013, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.7163285,
+          "lng": -73.99734389999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71774852989272,
+            "lng": -73.99584892010726
+          },
+          "southwest": {
+            "lat": 40.71504887010727,
+            "lng": -73.99854857989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Li Feng Zheng, Financial Professional - New York Life",
+      "place_id": "ChIJEXnH6a5bwokRyKAMDDg4kBc",
+      "plus_code": {
+        "compound_code": "P283+G3 New York, USA",
+        "global_code": "87G8P283+G3"
+      },
+      "rating": 0,
+      "reference": "ChIJEXnH6a5bwokRyKAMDDg4kBc",
+      "types": [
+        "insurance_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 0
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "40 E 23rd St 2nd Floor, New York, NY 10010, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.7403394,
+          "lng": -73.9873467
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74178632989272,
+            "lng": -73.98590777010727
+          },
+          "southwest": {
+            "lat": 40.73908667010728,
+            "lng": -73.98860742989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Professional Driving School of the Americas, Inc.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111316114306622214592\">Zack Norton</a>"
+          ],
+          "photo_reference": "AVzFdbklQnjKhbts0pOt69skw7CKBl_H9I5nbO9Oe8Z5TrSgQhaseg8vcUtOYadGyMo5YOHtiP0bwgDZHLUnN71C80MOc_2DNtpq3ZnE18LoTYg5sxeISvUjlBispxbkCL7gJZVB54yhu5qHmX67aaG-pyA9aQe_uh6najPlWtv4TaymNoWNB7MC3yxz",
+          "width": 3072
+        }
+      ],
+      "place_id": "ChIJW6NWNqFZwokRZF2FL8x7bhk",
+      "plus_code": {
+        "compound_code": "P2R7+43 New York, USA",
+        "global_code": "87G8P2R7+43"
+      },
+      "rating": 4.7,
+      "reference": "ChIJW6NWNqFZwokRZF2FL8x7bhk",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 258
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "120 Broadway 29th floor, New York, NY 10271, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.7083446,
+          "lng": -74.01062689999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.70978777989272,
+            "lng": -74.00917482010726
+          },
+          "southwest": {
+            "lat": 40.70708812010728,
+            "lng": -74.01187447989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Said Hammadi, Financial Professional - New York Life",
+      "place_id": "ChIJqUyGczRbwokRWWeEqAIXYQo",
+      "plus_code": {
+        "compound_code": "PX5Q+8P New York, USA",
+        "global_code": "87G7PX5Q+8P"
+      },
+      "rating": 0,
+      "reference": "ChIJqUyGczRbwokRWWeEqAIXYQo",
+      "types": [
+        "insurance_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 0
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "420 Lexington Ave Fl 15, New York, NY 10170, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.7527325,
+          "lng": -73.97575669999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75398017989272,
+            "lng": -73.97416037010727
+          },
+          "southwest": {
+            "lat": 40.75128052010728,
+            "lng": -73.97686002989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Victor Colon, Financial Professional - New York Life",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJUXPzkFVZwokRyKeXQOHrN3Y",
+      "plus_code": {
+        "compound_code": "Q23F+3M New York, USA",
+        "global_code": "87G8Q23F+3M"
+      },
+      "rating": 0,
+      "reference": "ChIJUXPzkFVZwokRyKeXQOHrN3Y",
+      "types": [
+        "insurance_agency",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 0
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "222 E 41st St 22nd Floor, New York, NY 10017, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.7493378,
+          "lng": -73.97407369999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75084227989272,
+            "lng": -73.97260937010726
+          },
+          "southwest": {
+            "lat": 40.74814262010728,
+            "lng": -73.97530902989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Craniofacial Orthodontist, Dr. Pradip R. Shetye, DDS,",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103702928087378111132\">Dr. Pradip R. Shetye, DDS</a>"
+          ],
+          "photo_reference": "AVzFdbm2YKFGdUsXjU7kbOuHHyTOtc38VSt_Js-bp7cGrJA7TTDelkFrHODauJNUPRlwfv30AmC3iQSkLBG88UZIhHLtZC6PI4Tb9j3mHOOrXUZDoX3jCWK5ThCYV68DN4itHfudfECm6lanu5sZqq605D9hZuLMoX0aArOLxrHyrm4I4OgdExQHJyIP",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ-QlHCQ9ZwokRKGlRZbbRF4w",
+      "plus_code": {
+        "compound_code": "P2XG+P9 New York, USA",
+        "global_code": "87G8P2XG+P9"
+      },
+      "rating": 5,
+      "reference": "ChIJ-QlHCQ9ZwokRKGlRZbbRF4w",
+      "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 10
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "910 Park Ave, New York, NY 10075, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.7762327,
+          "lng": -73.9603738
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77757282989273,
+            "lng": -73.95900017010727
+          },
+          "southwest": {
+            "lat": 40.77487317010728,
+            "lng": -73.96169982989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Alexander Golberg",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112286517602118993169\">A Google User</a>"
+          ],
+          "photo_reference": "AVzFdbnYz_Pj2UkCFb4N9SaQpU9ufYbg8kxJIgFjb5myrNOVBCr1S-GchD40jawN4lNBHqbvXmgpRviPN5-0vFJIDaJbBSfZICp5EHG5T9207XWs2jgxpQ4VGAWziGS5aLQC1m9uh7qwEqZmXxFg018wiEMxgzmCPUrDJmnFrOmf7nhXrGarcGlloI7b",
+          "width": 1231
+        }
+      ],
+      "place_id": "ChIJf_S-_1xZwokRz_b1XzxL5oY",
+      "plus_code": {
+        "compound_code": "Q2GQ+GR New York, USA",
+        "global_code": "87G8Q2GQ+GR"
+      },
+      "rating": 4.9,
+      "reference": "ChIJf_S-_1xZwokRz_b1XzxL5oY",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 53
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "19 W 34th St. Ph, New York, NY 10001, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.7492988,
+          "lng": -73.9859014
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75053682989272,
+            "lng": -73.98463372010728
+          },
+          "southwest": {
+            "lat": 40.74783717010728,
+            "lng": -73.98733337989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Prof. Phoenix Muhammad",
+      "place_id": "ChIJG2oFoKlZwokRjvdjqbuuh-g",
+      "plus_code": {
+        "compound_code": "P2X7+PJ New York, USA",
+        "global_code": "87G8P2X7+PJ"
+      },
+      "rating": 0,
+      "reference": "ChIJG2oFoKlZwokRjvdjqbuuh-g",
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 0
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "40 W 135th St # 1d, New York, NY 10037, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.812675,
+          "lng": -73.94006929999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81409007989271,
+            "lng": -73.93860522010728
+          },
+          "southwest": {
+            "lat": 40.81139042010727,
+            "lng": -73.94130487989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dr. Adegboyega T. Adebayo, MD",
+      "photos": [
+        {
+          "height": 450,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104499488061770839187\">Ade Adebayo</a>"
+          ],
+          "photo_reference": "AVzFdbn38_l8jI1OJhdhd7r-1DJUO5Lmw7lzkDHHa9TzK2CEn1jcywEmBkCwtSao2dCEenNwjR0KWeDM8UPyavXykCiEyRT20wmUTxbzhkzX1zC65TbSeN1sn3vJvuCF4nXUALMHk-xSK7YYT-aIrKWgv2347x6eRBkal12SiCay5sq9gQaNwgJ3rF0R",
+          "width": 675
+        }
+      ],
+      "place_id": "ChIJ25vAI3T2wokRmAInSD16EwI",
+      "plus_code": {
+        "compound_code": "R375+3X New York, USA",
+        "global_code": "87G8R375+3X"
+      },
+      "rating": 3.8,
+      "reference": "ChIJ25vAI3T2wokRmAInSD16EwI",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 17
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "17 E 102nd St 5th Fl, New York, NY 10029, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.7914837,
+          "lng": -73.9520137
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79277142989273,
+            "lng": -73.95070747010728
+          },
+          "southwest": {
+            "lat": 40.79007177010729,
+            "lng": -73.95340712989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bruce Sands, MD",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJf0SSxqBYwokRKQYJNIcXtxg",
+      "plus_code": {
+        "compound_code": "Q2RX+H5 New York, USA",
+        "global_code": "87G8Q2RX+H5"
+      },
+      "rating": 5,
+      "reference": "ChIJf0SSxqBYwokRKQYJNIcXtxg",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "525 E 68th St, New York, NY 10065, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.7643007,
+          "lng": -73.9542797
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76558922989272,
+            "lng": -73.95297312010727
+          },
+          "southwest": {
+            "lat": 40.76288957010728,
+            "lng": -73.95567277989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Prof. Giuseppe Giaccone",
+      "place_id": "ChIJT3jhjcNYwokRZXU-6r5KOHY",
+      "plus_code": {
+        "compound_code": "Q27W+P7 New York, USA",
+        "global_code": "87G8Q27W+P7"
+      },
+      "rating": 0,
+      "reference": "ChIJT3jhjcNYwokRZXU-6r5KOHY",
+      "types": [
+        "hospital",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 0
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "11 W 36th St. office 601, New York, NY 10018, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.7502597,
+          "lng": -73.9844033
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75153492989272,
+            "lng": -73.98310807010728
+          },
+          "southwest": {
+            "lat": 40.74883527010728,
+            "lng": -73.98580772989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "One L Professional",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 815,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106743260950318300486\">A Google User</a>"
+          ],
+          "photo_reference": "AVzFdbnZYBa63jMztYVgLBGexQfvi8Gt83ZKhfAZWerBfzbh9_Plro9OcRFQ8yj9DPQEhDAI-bFgD5PohiFF7UIPAsSXaTPTJc_D9mn5_Wi99n0UCg-ijmjhsJHtEyeU8TFs4TQRSJUZ96_YJayQoSddNFOhq03TiccyI74w4d1hCsqtHrlz2A0yXZxN",
+          "width": 828
+        }
+      ],
+      "place_id": "ChIJaalpI69ZwokRWTmr4EUZsRM",
+      "plus_code": {
+        "compound_code": "Q228+46 New York, USA",
+        "global_code": "87G8Q228+46"
+      },
+      "rating": 4.5,
+      "reference": "ChIJaalpI69ZwokRWTmr4EUZsRM",
+      "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 269
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "2430 FDR Dr, New York, NY 10010, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.7355949,
+          "lng": -73.9744624
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73687327989273,
+            "lng": -73.97313972010727
+          },
+          "southwest": {
+            "lat": 40.73417362010728,
+            "lng": -73.97583937989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+      "name": "2430 FDR Dr Garage",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 6144,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107716760208067370787\">Roger Bultot</a>"
+          ],
+          "photo_reference": "AVzFdbn3lKl0D9LvJwuP3wUSe0qlHuM75oWAHnMCkGhsjIWGvhktoTZDk9Nrt-_R7jln97RziXtgajxYdPJrKNpWqD31_G3Wuy8-EHJdNNPN9SOT73wqw0IYyU_sVMExNp9drBP9yd90KJn1KpcVfq43gur1cjMZHwMEq9QYsmtiMuCwCe3qRfz0LeHD",
+          "width": 8160
+        }
+      ],
+      "place_id": "ChIJaW9ZHw1ZwokRrGn7DB69m9k",
+      "plus_code": {
+        "compound_code": "P2PG+66 New York, USA",
+        "global_code": "87G8P2PG+66"
+      },
+      "rating": 3.8,
+      "reference": "ChIJaW9ZHw1ZwokRrGn7DB69m9k",
+      "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5
+    }
+  ],
+  "status": "OK"
+}
+2025-02-20 18:30:07,055 - WARNING - No matching place found for Prof with domain profaircorp.com
+2025-02-20 18:30:07,059 - INFO - Enhanced data saved to enhanced_dataset.csv
+2025-02-20 18:36:57,692 - INFO - Loaded CSV file with 3737 rows
+2025-02-20 18:36:57,693 - INFO - Test mode: Processing first 5 rows only
+2025-02-20 18:36:57,695 - DEBUG - Search query: Gamble Plumbing HVAC Raleigh USA
+2025-02-20 18:36:57,695 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:36:57,697 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:36:58,513 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Gamble+Plumbing+HVAC+Raleigh+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY HTTP/1.1" 200 2208
+2025-02-20 18:36:58,514 - DEBUG - API Response status: 200
+2025-02-20 18:36:58,514 - DEBUG - Search API Response: {
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1027 US-70 Suite 107, Garner, NC 27529, United States",
+      "geometry": {
+        "location": {
+          "lat": 35.7158511,
+          "lng": -78.6338684
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.71730607989273,
+            "lng": -78.63245252010728
+          },
+          "southwest": {
+            "lat": 35.71460642010729,
+            "lng": -78.63515217989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Gamble Plumbing Heating and Air Conditioning",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116025460688643796374\">A Google User</a>"
+          ],
+          "photo_reference": "AVzFdblM8vaXTRgtaVek8Ba__U1nrD9u7Ils1qeFq4mjRdwK5xrH1uji6pHjDfGR_ca--MyZ0Kvj-1cvO3A9WMVM50Tz2OGGrfjLHcx0MnMmrfamZ0aOS5LD_zoupn_9S3cHvJTX-aA-yKAwP1hWr3iiKTXcY-1xNlCjSwKBv0-p8iVLIZ18pDNAo9O_",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJMTaCvEZhrIkRWFk112PjER0",
+      "plus_code": {
+        "compound_code": "P988+8F Garner, North Carolina, USA",
+        "global_code": "8773P988+8F"
+      },
+      "rating": 4.8,
+      "reference": "ChIJMTaCvEZhrIkRWFk112PjER0",
+      "types": [
+        "plumber",
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 23
+    }
+  ],
+  "status": "OK"
+}
+2025-02-20 18:36:58,517 - INFO - Found place: Gamble Plumbing Heating and Air Conditioning with place_id: ChIJMTaCvEZhrIkRWFk112PjER0
+2025-02-20 18:36:58,518 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:36:59,172 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/details/json?place_id=ChIJMTaCvEZhrIkRWFk112PjER0&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY&fields=name%2Cformatted_phone_number%2Cformatted_address%2Cwebsite%2Crating%2Cuser_ratings_total%2Creviews%2Copening_hours%2Cbusiness_status HTTP/1.1" 200 7871
+2025-02-20 18:36:59,173 - DEBUG - Details API Response: {
+  "html_attributions": [],
+  "result": {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1027 US-70 Suite 107, Garner, NC 27529, USA",
+    "formatted_phone_number": "(919) 772-1338",
+    "name": "Gamble Plumbing Heating and Air Conditioning",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Saturday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+        "Sunday: Closed"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "L. L.",
+        "author_url": "https://www.google.com/maps/contrib/114008052975136894120/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7Pd9d4OQ7QsFeT-sNuZ2I3ymD3szL2PPchVETCh1P3Jv8DWtj=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "ABSOLUTELY AMAZED AT THEIR SERVICE!!! They were contacted by landlord to repair my air conditioner air. The first technician came out and got the AC working audio but he said it would not be up to it\u2019s full potential because it needed to be cleaned. I told him I would let my landlord know. Of course they didn\u2019t handle it.\n\nSo I sent another request to my landlord and let them know it still wasn\u2019t working. Anyway on Sunday June 30 I got a call I want to say from the owner of Gamble. He asked me what was going on I told him the thermostat would not go under 75 so he  said he would come by. He was here for about an hour cleaned out the unit added more refrigerant and when I tell you my house is the coldest is ever been since the three years I\u2019ve been here!!\n\nI 100% highly recommend this company!! He went above and beyond to get me right!! Thank you!!!",
+        "time": 1719886484,
+        "translated": false
+      },
+      {
+        "author_name": "Crystal Hunt",
+        "author_url": "https://www.google.com/maps/contrib/114865597502407552362/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2dL-J7ce7_r-n5sc9eR_h245hkhAfVqKFiZdxEogKm2HACJ93=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "The staff at Gamble Plumbing are so helpful and helped me make the best decision for repairs I needed.  They scheduled an appointment right away and completed the work quickly, and worked neatly.  Thank you so much to the team for the support and quality work on my home!",
+        "time": 1738948839,
+        "translated": false
+      },
+      {
+        "author_name": "Deborah Thomassen",
+        "author_url": "https://www.google.com/maps/contrib/107777250814143864752/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLY-RIR-vwPxigX2J8apIWL1JOcnXKpyN1TXJhRbBnClUuSfA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "What exceptional service, communication, and fair pricing! I would not hesitate to recommend Gamble. Gamble is not a gamble! You will be in good hands!",
+        "time": 1739805224,
+        "translated": false
+      },
+      {
+        "author_name": "Abraham Harper (Adam)",
+        "author_url": "https://www.google.com/maps/contrib/106097362282072195103/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmOA5VnlDLm3yWAu0PmfaDMq8lRaTRuB1YSCwjbml1Ol5baQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "Every time this company comes to the townhome complex I live in, they turn off the water for everyone. No warning, no notice, nothing. It\u2019s mid-day Friday and I have no water, the same thing happened yesterday. At least let people know you are going to turn off their water for a few hours  in the middle of the day.",
+        "time": 1733503654,
+        "translated": false
+      },
+      {
+        "author_name": "Nathan Miller",
+        "author_url": "https://www.google.com/maps/contrib/102671257325648392210/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzB95G2eqFShMFtK069RO-DmSIlTJIDNU-0SnI2Lp8MuK50g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Andrew and the crew were professional, knowledgeable, honest and courteous. I got quotes from 2 other big name companies and Gamble plumbing was much more reasonable. They installed a new water heater, new pressure valve, and a new outside hose bib for $300 less than what another company quoted for JUST a new water heater - the choice was obvious. Water pressure is better than before and couldn't be happier with the work they did.\n\nWe had them back for another leaking valve in the laundry room and Andrew offered a better solution then what he had originally quoted - less drywall cut, less materials and less money for the same desired result. He could have easily just stuck to his quote but he found a better solution. I recommend Gamble to anyone looking for a plumber and will call them for any of my future needs.",
+        "time": 1717181945,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 23,
+    "website": "https://gambletheplumber.com/"
+  },
+  "status": "OK"
+}
+2025-02-20 18:36:59,188 - DEBUG - Search query: Spurk HVAC Pittsburgh USA
+2025-02-20 18:36:59,189 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:36:59,190 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:36:59,994 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Spurk+HVAC+Pittsburgh+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY HTTP/1.1" 200 2209
+2025-02-20 18:36:59,995 - DEBUG - API Response status: 200
+2025-02-20 18:36:59,995 - DEBUG - Search API Response: {
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "355 Northgate Dr, Warrendale, PA 15086, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.6557124,
+          "lng": -80.0837384
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.65710647989272,
+            "lng": -80.08233947010727
+          },
+          "southwest": {
+            "lat": 40.65440682010728,
+            "lng": -80.08503912989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Spurk HVAC, LLC.",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1125,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109117370028909351652\">A Google User</a>"
+          ],
+          "photo_reference": "AVzFdbl7Vt23UKkkLZ-_dD284D5LBg8gvdFjAgUTN9p-rUQ4nTmFz4KaLYsrI_Pj_iEK6LD-qyBVW5_aCatuH7JvBTrjvN-v61nhjhClDvHu4euvRrcNqhdVgQDa63gR4g6AEMbesmjTlslaSxbuhaCSuSjVgaiedZmJpsu-LnTqLOGJlp3nON0GsiSA",
+          "width": 1500
+        }
+      ],
+      "place_id": "ChIJoXu4xneINIgRldjD20nbkdQ",
+      "plus_code": {
+        "compound_code": "MW48+7G Warrendale, Pennsylvania, USA",
+        "global_code": "86GXMW48+7G"
+      },
+      "rating": 4.9,
+      "reference": "ChIJoXu4xneINIgRldjD20nbkdQ",
+      "types": [
+        "car_dealer",
+        "general_contractor",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 402
+    }
+  ],
+  "status": "OK"
+}
+2025-02-20 18:36:59,999 - INFO - Found place: Spurk HVAC, LLC. with place_id: ChIJoXu4xneINIgRldjD20nbkdQ
+2025-02-20 18:37:00,001 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:37:00,492 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/details/json?place_id=ChIJoXu4xneINIgRldjD20nbkdQ&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY&fields=name%2Cformatted_phone_number%2Cformatted_address%2Cwebsite%2Crating%2Cuser_ratings_total%2Creviews%2Copening_hours%2Cbusiness_status HTTP/1.1" 200 5650
+2025-02-20 18:37:00,493 - DEBUG - Details API Response: {
+  "html_attributions": [],
+  "result": {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "355 Northgate Dr, Warrendale, PA 15086, USA",
+    "formatted_phone_number": "(724) 213-0587",
+    "name": "Spurk HVAC, LLC.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "matthew sanders",
+        "author_url": "https://www.google.com/maps/contrib/112533958755269639042/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlz-vVK9LbGsoQc_OgyyOwh6-gxNYV47tx_s8entKB-lnRXw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "We had a great experience all the way around.  We switched from an old oil furnace that was installed in 81 so I have to assume this was anything but the standard job.  When Jason came out to give us a price on the job he was on-time, communicated with us very well, and was very easy to deal with.   This was exactly how every step of the process went with this company from the office, to the purchaser to the installer.  Quite honestly if every contractor provided a service like this I would do a lot less projects at my house on my own.",
+        "time": 1739621272,
+        "translated": false
+      },
+      {
+        "author_name": "Peggy Opel",
+        "author_url": "https://www.google.com/maps/contrib/106582284680053507491/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQqoZUNDvV9NekUyC8tVLuumn64om5CFT-Ku4vzHTZipAhXg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Spurk heating/AC services was the best choice for our needs.  They are all very knowledgeable and did a fantastic job for us.  We had both our furnace and A/C replaced at a reasonable cost, and in record time.  We will certainly use this company again and again.  Great job by all who worked for us!  Thank you!",
+        "time": 1737006400,
+        "translated": false
+      },
+      {
+        "author_name": "jim gajkowski",
+        "author_url": "https://www.google.com/maps/contrib/108623840650313422224/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL98yHJMfMfea9xUvIUJqWl9GWMIIjFC9Kct47Zpps4n38MLw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Spurk is always five star ! Evan came today (on a cold Sunday) and fixed our furnace. He is especially fantastic. He even called within five minutes of our service request and was at our home within an hour.  He is extremely good and also took time to explain everything to us! Thank you so much Evan, you\u2019re the best!",
+        "time": 1736107553,
+        "translated": false
+      },
+      {
+        "author_name": "Anthony Henderson",
+        "author_url": "https://www.google.com/maps/contrib/105713213906727683272/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXTObsrUFMT_OXIDD4u6uUVtQzDOErDFvuN27rbP1qzr3Phw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Excellent customer service! From the owner to the technicians, and everyone in between, it was very evident that the team at at Spurk really cares about the customer and is willing to go the extra mile to ensure all concerns are addressed in a professional manner. We feel very fortunate that our next-door neighbor personally recommended them. We couldn't be happier!",
+        "time": 1732106742,
+        "translated": false
+      },
+      {
+        "author_name": "Melissa Butscher",
+        "author_url": "https://www.google.com/maps/contrib/115585002165709528588/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMTSIUC6SY4gP45PeiKO5c82OH70gs-ZxU8S3iGwaZ-7BrWzey=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Jason went out of his way to assess my furnace asap when it died in the middle of a sub zero freeze. My new furnace was installed within 48 hours. They were very professional and did a fantastic job. I would highly recommend their service.",
+        "time": 1737658436,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 402,
+    "website": "https://www.spurkhvac.com/?utm_source=google&utm_medium=gmb&utm_id=cbc"
+  },
+  "status": "OK"
+}
+2025-02-20 18:37:00,504 - DEBUG - Search query: Pliescott HVAC Services Cambridge USA
+2025-02-20 18:37:00,504 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:37:00,505 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:37:01,174 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Pliescott+HVAC+Services+Cambridge+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY HTTP/1.1" 200 1514
+2025-02-20 18:37:01,175 - DEBUG - API Response status: 200
+2025-02-20 18:37:01,175 - DEBUG - Search API Response: {
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "100 Goodwill Rd, Cambridge, MD 21613, United States",
+      "geometry": {
+        "location": {
+          "lat": 38.55921,
+          "lng": -76.0730136
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.56054337989273,
+            "lng": -76.07168207010727
+          },
+          "southwest": {
+            "lat": 38.55784372010728,
+            "lng": -76.07438172989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Pliescott HVAC Services",
+      "place_id": "ChIJCXjLpz1KuIkRtVrbcXnAHd4",
+      "plus_code": {
+        "compound_code": "HW5G+PV Cambridge, Maryland, USA",
+        "global_code": "87C5HW5G+PV"
+      },
+      "rating": 4.1,
+      "reference": "ChIJCXjLpz1KuIkRtVrbcXnAHd4",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 9
+    }
+  ],
+  "status": "OK"
+}
+2025-02-20 18:37:01,178 - INFO - Found place: Pliescott HVAC Services with place_id: ChIJCXjLpz1KuIkRtVrbcXnAHd4
+2025-02-20 18:37:01,179 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:37:01,982 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/details/json?place_id=ChIJCXjLpz1KuIkRtVrbcXnAHd4&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY&fields=name%2Cformatted_phone_number%2Cformatted_address%2Cwebsite%2Crating%2Cuser_ratings_total%2Creviews%2Copening_hours%2Cbusiness_status HTTP/1.1" 200 4552
+2025-02-20 18:37:01,983 - DEBUG - Details API Response: {
+  "html_attributions": [],
+  "result": {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "100 Goodwill Rd, Cambridge, MD 21613, USA",
+    "formatted_phone_number": "(410) 228-4822",
+    "name": "Pliescott HVAC Services",
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Tyler Lewis",
+        "author_url": "https://www.google.com/maps/contrib/103206282968560513651/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgZkvaWBWZC1d5gpabTe1gtoaJ0EW_UndV8xyuqcnwDqbiYI0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Woody and his employees always go above and beyond whenever I call for a service or emergency situation. Honest and outstanding That you can trust will get the job done right. Highly recommend this company!",
+        "time": 1723641357,
+        "translated": false
+      },
+      {
+        "author_name": "Justin Johnson",
+        "author_url": "https://www.google.com/maps/contrib/100425066818500901418/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXknPvvv5aE9s2n9xZMrWSqjo3fOdEXG5xhav60wpse7bQ4ohy=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Nothing compares to the dedication and expertise of this family-run business! Commitment to quality & customer service, highly recommend",
+        "time": 1733170544,
+        "translated": false
+      },
+      {
+        "author_name": "Charlotta Snelling -DPSCS-",
+        "author_url": "https://www.google.com/maps/contrib/116775667428176928895/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrqrW4Ewo2vyIq-XrSVAQIu0jlRqDNJwEoHwwLI7XMIUkr2tIs=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I can't say enough good things about my experience with this company. The highest temperatures we have had this summer and the HVAC stopped working. I called the company spoke to the owner and he said he would try to get Brian out in the afternoon to check out the problem.  Brian came it was 94 in the house and unbearable. He found the problem and fixed it. I am so grateful for the quick response.",
+        "time": 1658837268,
+        "translated": false
+      },
+      {
+        "author_name": "Brian Roche",
+        "author_url": "https://www.google.com/maps/contrib/103699170196574446889/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiDmf8Lk-uPeDSDp637bCcg8Xku1PKlsM5ExEj7T73n9Ptafsb=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Very professional service and HVAC experts.  They know it's always an emergency when you lose your heat or air, so it is comforting to have a local company you can contact and someone reliably picks up the phone or responds in a timely fashion, schedules an appointment for service, and then shows up and fixes your problem!",
+        "time": 1539957376,
+        "translated": false
+      },
+      {
+        "author_name": "Krealz",
+        "author_url": "https://www.google.com/maps/contrib/117832048884658009893/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmxVKmOdhRmb6Tr-wjeuaW38l3AsSFDP94EqaMLVBo2dnpJCE=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 years ago",
+        "text": "filled out an application, called two weeks later to check the status of my application. Was told i would recieve a call back from the hiring manager. It never happened. Now i can not speak on there work, nor there customer sevice. Only on there none compliance getting back at me.",
+        "time": 1558559351,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 9
+  },
+  "status": "OK"
+}
+2025-02-20 18:37:01,993 - DEBUG - Search query: Tetteris HVAC Frederick USA
+2025-02-20 18:37:01,993 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:37:01,994 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:37:02,642 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Tetteris+HVAC+Frederick+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY HTTP/1.1" 200 80
+2025-02-20 18:37:02,643 - DEBUG - API Response status: 200
+2025-02-20 18:37:02,643 - DEBUG - Search API Response: {
+  "html_attributions": [],
+  "results": [],
+  "status": "ZERO_RESULTS"
+}
+2025-02-20 18:37:02,643 - WARNING - No places found for query: Tetteris HVAC Frederick USA
+2025-02-20 18:37:02,645 - DEBUG - Search query: ProfAir HVAC New York USA
+2025-02-20 18:37:02,645 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:37:02,646 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:37:03,356 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=ProfAir+HVAC+New+York+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY HTTP/1.1" 200 2174
+2025-02-20 18:37:03,356 - DEBUG - API Response status: 200
+2025-02-20 18:37:03,357 - DEBUG - Search API Response: {
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "542 3rd Ave, Brooklyn, NY 11215, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.668874,
+          "lng": -73.99363149999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.67014432989271,
+            "lng": -73.99213252010728
+          },
+          "southwest": {
+            "lat": 40.66744467010727,
+            "lng": -73.99483217989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Profair LTS Corp",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116611168254981887701\">A Google User</a>"
+          ],
+          "photo_reference": "AVzFdbltxcLsiaq476OwaE54VNbfKt0EElw0ziERuvA2yKiwhzXfyovLLBZAMH-imde6o1o24Ysa1irXrJzG0-h5SRdGarVlxzJxVvleoXP3ztbG21bnp7ipdKT2cOs8XHy7fgCEtGUIBNlTlXRyVN8l97bzfkZ_cGm1MmTucgT3jRUUy_Khb9lrcB82",
+          "width": 959
+        }
+      ],
+      "place_id": "ChIJJ3_cW8ZbwokRHXi5hj-si28",
+      "plus_code": {
+        "compound_code": "M294+GG Brooklyn, New York, USA",
+        "global_code": "87G8M294+GG"
+      },
+      "rating": 5,
+      "reference": "ChIJJ3_cW8ZbwokRHXi5hj-si28",
+      "types": [
+        "finance",
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 15
+    }
+  ],
+  "status": "OK"
+}
+2025-02-20 18:37:03,360 - INFO - Found place: Profair LTS Corp with place_id: ChIJJ3_cW8ZbwokRHXi5hj-si28
+2025-02-20 18:37:03,361 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:37:03,821 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/details/json?place_id=ChIJJ3_cW8ZbwokRHXi5hj-si28&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY&fields=name%2Cformatted_phone_number%2Cformatted_address%2Cwebsite%2Crating%2Cuser_ratings_total%2Creviews%2Copening_hours%2Cbusiness_status HTTP/1.1" 200 6693
+2025-02-20 18:37:03,822 - DEBUG - Details API Response: {
+  "html_attributions": [],
+  "result": {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "542 3rd Ave, Brooklyn, NY 11215, USA",
+    "formatted_phone_number": "(646) 764-3280",
+    "name": "Profair LTS Corp",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1430"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+        "Sunday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Jacque Medina",
+        "author_url": "https://www.google.com/maps/contrib/116081753542891670103/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKksS8dZjBJHJhgSlpYlx1D9zGJ2XS7iBcPcwsHiXdfvQAo9w=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "I don't know where to begin with the service and professional services I received during my purchasing experience.\nI absolutely didn't have any experience in what I specifically needed but the whole team at Profair LTS Corp, provided what I needed with a photo and sizing! I didn't even have to to back, just waited until it was fabricated and completed. I recommend Profair LTS Corp as they met the mark with all aspects of the quality and of their work. Thank you, again.",
+        "time": 1714598508,
+        "translated": false
+      },
+      {
+        "author_name": "Zevulun Yakubov",
+        "author_url": "https://www.google.com/maps/contrib/103937685607881832733/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGhNxDR8QJYOe3arh0qFrTXsnsDDAAsyGmie0UFBa_Cy4ZoQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Amazing service I was in and\nPut explained what I needed they got me right away. Paid the bill and had it ready next day. Amazing work amazing people definitely Recommend",
+        "time": 1694195319,
+        "translated": false
+      },
+      {
+        "author_name": "Natalia Salvatore",
+        "author_url": "https://www.google.com/maps/contrib/115096231751686643531/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIj5FxQorgCajwrygxvuCAUlFIuIh4Uv4kHS6XSKSasHtIxiw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Reasonable price with high-quality installation and fabrication. Work ended on a positive note, I will definitely return to them again if I will need to install new A/C system",
+        "time": 1673663345,
+        "translated": false
+      },
+      {
+        "author_name": "Jama Khakimov",
+        "author_url": "https://www.google.com/maps/contrib/112589275005818061045/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUd3DacM9y3ZsSMn0apNJH8cOFeYUkXUQH08ytcJapdGIAopMqb=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Very professional, Very responsible guys, I recommend them to everyone. I had a great experience working with Profair.",
+        "time": 1674011003,
+        "translated": false
+      },
+      {
+        "author_name": "Oleg Ivanik",
+        "author_url": "https://www.google.com/maps/contrib/116163835300052329729/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzpY1vAso4_wy5Q4RuniiRrRwxbG3-ovxSKGPYuflIt_hda-ry=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Very fast installation and fabrication ductwork,highly recommendation",
+        "time": 1673016462,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 15,
+    "website": "http://profaircorp.com/"
+  },
+  "status": "OK"
+}
+2025-02-20 18:37:03,836 - INFO - Enhanced data saved to enhanced_dataset.csv
+2025-02-20 18:41:32,744 - INFO - Loaded CSV file with 3737 rows
+2025-02-20 18:41:32,744 - INFO - Test mode: Processing first 5 rows only
+2025-02-20 18:41:32,747 - DEBUG - Search query: Gamble Plumbing HVAC Raleigh USA
+2025-02-20 18:41:32,747 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:41:32,750 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:41:33,480 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Gamble+Plumbing+HVAC+Raleigh+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY HTTP/1.1" 200 2208
+2025-02-20 18:41:33,481 - DEBUG - API Response status: 200
+2025-02-20 18:41:33,481 - DEBUG - Search API Response: {
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1027 US-70 Suite 107, Garner, NC 27529, United States",
+      "geometry": {
+        "location": {
+          "lat": 35.7158511,
+          "lng": -78.6338684
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.71730607989273,
+            "lng": -78.63245252010728
+          },
+          "southwest": {
+            "lat": 35.71460642010729,
+            "lng": -78.63515217989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Gamble Plumbing Heating and Air Conditioning",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116025460688643796374\">A Google User</a>"
+          ],
+          "photo_reference": "AVzFdbkDZ_hLhyS1lCRv6hutuuRJ_FPyXnwJtsuyESemq2cqvw1Uk_q1tJWv15c4TekJ2Etq_AhroQLR9wsoOfWKN6c-fbmXHGVsikTTqUHPwZKXPrQFGagrVy921Ui6bDU79249vaVcbL_s4AK0npYhZG2diProoe899cJBjdvzrSBdvyGZFs0KPjtt",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJMTaCvEZhrIkRWFk112PjER0",
+      "plus_code": {
+        "compound_code": "P988+8F Garner, North Carolina, USA",
+        "global_code": "8773P988+8F"
+      },
+      "rating": 4.8,
+      "reference": "ChIJMTaCvEZhrIkRWFk112PjER0",
+      "types": [
+        "plumber",
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 23
+    }
+  ],
+  "status": "OK"
+}
+2025-02-20 18:41:33,484 - INFO - Found place: Gamble Plumbing Heating and Air Conditioning with place_id: ChIJMTaCvEZhrIkRWFk112PjER0
+2025-02-20 18:41:33,486 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:41:33,983 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/details/json?place_id=ChIJMTaCvEZhrIkRWFk112PjER0&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY&fields=name%2Cformatted_phone_number%2Cformatted_address%2Cwebsite%2Crating%2Cuser_ratings_total%2Creviews%2Copening_hours%2Cbusiness_status HTTP/1.1" 200 7871
+2025-02-20 18:41:33,984 - DEBUG - Details API Response: {
+  "html_attributions": [],
+  "result": {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1027 US-70 Suite 107, Garner, NC 27529, USA",
+    "formatted_phone_number": "(919) 772-1338",
+    "name": "Gamble Plumbing Heating and Air Conditioning",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Saturday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+        "Sunday: Closed"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "L. L.",
+        "author_url": "https://www.google.com/maps/contrib/114008052975136894120/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7Pd9d4OQ7QsFeT-sNuZ2I3ymD3szL2PPchVETCh1P3Jv8DWtj=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "ABSOLUTELY AMAZED AT THEIR SERVICE!!! They were contacted by landlord to repair my air conditioner air. The first technician came out and got the AC working audio but he said it would not be up to it\u2019s full potential because it needed to be cleaned. I told him I would let my landlord know. Of course they didn\u2019t handle it.\n\nSo I sent another request to my landlord and let them know it still wasn\u2019t working. Anyway on Sunday June 30 I got a call I want to say from the owner of Gamble. He asked me what was going on I told him the thermostat would not go under 75 so he  said he would come by. He was here for about an hour cleaned out the unit added more refrigerant and when I tell you my house is the coldest is ever been since the three years I\u2019ve been here!!\n\nI 100% highly recommend this company!! He went above and beyond to get me right!! Thank you!!!",
+        "time": 1719886484,
+        "translated": false
+      },
+      {
+        "author_name": "Crystal Hunt",
+        "author_url": "https://www.google.com/maps/contrib/114865597502407552362/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2dL-J7ce7_r-n5sc9eR_h245hkhAfVqKFiZdxEogKm2HACJ93=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "The staff at Gamble Plumbing are so helpful and helped me make the best decision for repairs I needed.  They scheduled an appointment right away and completed the work quickly, and worked neatly.  Thank you so much to the team for the support and quality work on my home!",
+        "time": 1738948839,
+        "translated": false
+      },
+      {
+        "author_name": "Deborah Thomassen",
+        "author_url": "https://www.google.com/maps/contrib/107777250814143864752/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLY-RIR-vwPxigX2J8apIWL1JOcnXKpyN1TXJhRbBnClUuSfA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "What exceptional service, communication, and fair pricing! I would not hesitate to recommend Gamble. Gamble is not a gamble! You will be in good hands!",
+        "time": 1739805224,
+        "translated": false
+      },
+      {
+        "author_name": "Abraham Harper (Adam)",
+        "author_url": "https://www.google.com/maps/contrib/106097362282072195103/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmOA5VnlDLm3yWAu0PmfaDMq8lRaTRuB1YSCwjbml1Ol5baQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "Every time this company comes to the townhome complex I live in, they turn off the water for everyone. No warning, no notice, nothing. It\u2019s mid-day Friday and I have no water, the same thing happened yesterday. At least let people know you are going to turn off their water for a few hours  in the middle of the day.",
+        "time": 1733503654,
+        "translated": false
+      },
+      {
+        "author_name": "Nathan Miller",
+        "author_url": "https://www.google.com/maps/contrib/102671257325648392210/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzB95G2eqFShMFtK069RO-DmSIlTJIDNU-0SnI2Lp8MuK50g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Andrew and the crew were professional, knowledgeable, honest and courteous. I got quotes from 2 other big name companies and Gamble plumbing was much more reasonable. They installed a new water heater, new pressure valve, and a new outside hose bib for $300 less than what another company quoted for JUST a new water heater - the choice was obvious. Water pressure is better than before and couldn't be happier with the work they did.\n\nWe had them back for another leaking valve in the laundry room and Andrew offered a better solution then what he had originally quoted - less drywall cut, less materials and less money for the same desired result. He could have easily just stuck to his quote but he found a better solution. I recommend Gamble to anyone looking for a plumber and will call them for any of my future needs.",
+        "time": 1717181945,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 23,
+    "website": "https://gambletheplumber.com/"
+  },
+  "status": "OK"
+}
+2025-02-20 18:41:34,000 - DEBUG - Search query: Spurk HVAC Pittsburgh USA
+2025-02-20 18:41:34,000 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:41:34,001 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:41:34,825 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Spurk+HVAC+Pittsburgh+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY HTTP/1.1" 200 2209
+2025-02-20 18:41:34,826 - DEBUG - API Response status: 200
+2025-02-20 18:41:34,826 - DEBUG - Search API Response: {
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "355 Northgate Dr, Warrendale, PA 15086, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.6557124,
+          "lng": -80.0837384
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.65710647989272,
+            "lng": -80.08233947010727
+          },
+          "southwest": {
+            "lat": 40.65440682010728,
+            "lng": -80.08503912989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Spurk HVAC, LLC.",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3025,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109117370028909351652\">A Google User</a>"
+          ],
+          "photo_reference": "AVzFdblh5GcTVUHJwvw0vBGc82cMKBG_cik_y4gLitUpKhPoCM8Ne98g4JXZiow8OJJBXo4ZlbqpbRvvvTvE-ew7H8Pf2zv2sjKZycTsGsbqpVJRbs8wa_VxfRemuLGP0EAGYuHFofXXg6_-WKPBFBCRIF84huWpfp7r9TrACQ3Yu1oebMR4NPu-mTKK",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJoXu4xneINIgRldjD20nbkdQ",
+      "plus_code": {
+        "compound_code": "MW48+7G Warrendale, Pennsylvania, USA",
+        "global_code": "86GXMW48+7G"
+      },
+      "rating": 4.9,
+      "reference": "ChIJoXu4xneINIgRldjD20nbkdQ",
+      "types": [
+        "car_dealer",
+        "general_contractor",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 402
+    }
+  ],
+  "status": "OK"
+}
+2025-02-20 18:41:34,831 - INFO - Found place: Spurk HVAC, LLC. with place_id: ChIJoXu4xneINIgRldjD20nbkdQ
+2025-02-20 18:41:34,832 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:41:35,372 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/details/json?place_id=ChIJoXu4xneINIgRldjD20nbkdQ&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY&fields=name%2Cformatted_phone_number%2Cformatted_address%2Cwebsite%2Crating%2Cuser_ratings_total%2Creviews%2Copening_hours%2Cbusiness_status HTTP/1.1" 200 5650
+2025-02-20 18:41:35,373 - DEBUG - Details API Response: {
+  "html_attributions": [],
+  "result": {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "355 Northgate Dr, Warrendale, PA 15086, USA",
+    "formatted_phone_number": "(724) 213-0587",
+    "name": "Spurk HVAC, LLC.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "matthew sanders",
+        "author_url": "https://www.google.com/maps/contrib/112533958755269639042/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlz-vVK9LbGsoQc_OgyyOwh6-gxNYV47tx_s8entKB-lnRXw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "We had a great experience all the way around.  We switched from an old oil furnace that was installed in 81 so I have to assume this was anything but the standard job.  When Jason came out to give us a price on the job he was on-time, communicated with us very well, and was very easy to deal with.   This was exactly how every step of the process went with this company from the office, to the purchaser to the installer.  Quite honestly if every contractor provided a service like this I would do a lot less projects at my house on my own.",
+        "time": 1739621272,
+        "translated": false
+      },
+      {
+        "author_name": "Peggy Opel",
+        "author_url": "https://www.google.com/maps/contrib/106582284680053507491/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQqoZUNDvV9NekUyC8tVLuumn64om5CFT-Ku4vzHTZipAhXg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Spurk heating/AC services was the best choice for our needs.  They are all very knowledgeable and did a fantastic job for us.  We had both our furnace and A/C replaced at a reasonable cost, and in record time.  We will certainly use this company again and again.  Great job by all who worked for us!  Thank you!",
+        "time": 1737006400,
+        "translated": false
+      },
+      {
+        "author_name": "jim gajkowski",
+        "author_url": "https://www.google.com/maps/contrib/108623840650313422224/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL98yHJMfMfea9xUvIUJqWl9GWMIIjFC9Kct47Zpps4n38MLw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Spurk is always five star ! Evan came today (on a cold Sunday) and fixed our furnace. He is especially fantastic. He even called within five minutes of our service request and was at our home within an hour.  He is extremely good and also took time to explain everything to us! Thank you so much Evan, you\u2019re the best!",
+        "time": 1736107553,
+        "translated": false
+      },
+      {
+        "author_name": "Anthony Henderson",
+        "author_url": "https://www.google.com/maps/contrib/105713213906727683272/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXTObsrUFMT_OXIDD4u6uUVtQzDOErDFvuN27rbP1qzr3Phw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Excellent customer service! From the owner to the technicians, and everyone in between, it was very evident that the team at at Spurk really cares about the customer and is willing to go the extra mile to ensure all concerns are addressed in a professional manner. We feel very fortunate that our next-door neighbor personally recommended them. We couldn't be happier!",
+        "time": 1732106742,
+        "translated": false
+      },
+      {
+        "author_name": "Melissa Butscher",
+        "author_url": "https://www.google.com/maps/contrib/115585002165709528588/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMTSIUC6SY4gP45PeiKO5c82OH70gs-ZxU8S3iGwaZ-7BrWzey=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Jason went out of his way to assess my furnace asap when it died in the middle of a sub zero freeze. My new furnace was installed within 48 hours. They were very professional and did a fantastic job. I would highly recommend their service.",
+        "time": 1737658436,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 402,
+    "website": "https://www.spurkhvac.com/?utm_source=google&utm_medium=gmb&utm_id=cbc"
+  },
+  "status": "OK"
+}
+2025-02-20 18:41:35,385 - DEBUG - Search query: Pliescott HVAC Services Cambridge USA
+2025-02-20 18:41:35,386 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:41:35,387 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:41:35,994 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Pliescott+HVAC+Services+Cambridge+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY HTTP/1.1" 200 1514
+2025-02-20 18:41:35,995 - DEBUG - API Response status: 200
+2025-02-20 18:41:35,995 - DEBUG - Search API Response: {
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "100 Goodwill Rd, Cambridge, MD 21613, United States",
+      "geometry": {
+        "location": {
+          "lat": 38.55921,
+          "lng": -76.0730136
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.56054337989273,
+            "lng": -76.07168207010727
+          },
+          "southwest": {
+            "lat": 38.55784372010728,
+            "lng": -76.07438172989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Pliescott HVAC Services",
+      "place_id": "ChIJCXjLpz1KuIkRtVrbcXnAHd4",
+      "plus_code": {
+        "compound_code": "HW5G+PV Cambridge, Maryland, USA",
+        "global_code": "87C5HW5G+PV"
+      },
+      "rating": 4.1,
+      "reference": "ChIJCXjLpz1KuIkRtVrbcXnAHd4",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 9
+    }
+  ],
+  "status": "OK"
+}
+2025-02-20 18:41:35,997 - INFO - Found place: Pliescott HVAC Services with place_id: ChIJCXjLpz1KuIkRtVrbcXnAHd4
+2025-02-20 18:41:35,999 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:41:36,599 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/details/json?place_id=ChIJCXjLpz1KuIkRtVrbcXnAHd4&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY&fields=name%2Cformatted_phone_number%2Cformatted_address%2Cwebsite%2Crating%2Cuser_ratings_total%2Creviews%2Copening_hours%2Cbusiness_status HTTP/1.1" 200 4552
+2025-02-20 18:41:36,599 - DEBUG - Details API Response: {
+  "html_attributions": [],
+  "result": {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "100 Goodwill Rd, Cambridge, MD 21613, USA",
+    "formatted_phone_number": "(410) 228-4822",
+    "name": "Pliescott HVAC Services",
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Tyler Lewis",
+        "author_url": "https://www.google.com/maps/contrib/103206282968560513651/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgZkvaWBWZC1d5gpabTe1gtoaJ0EW_UndV8xyuqcnwDqbiYI0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Woody and his employees always go above and beyond whenever I call for a service or emergency situation. Honest and outstanding That you can trust will get the job done right. Highly recommend this company!",
+        "time": 1723641357,
+        "translated": false
+      },
+      {
+        "author_name": "Justin Johnson",
+        "author_url": "https://www.google.com/maps/contrib/100425066818500901418/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXknPvvv5aE9s2n9xZMrWSqjo3fOdEXG5xhav60wpse7bQ4ohy=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Nothing compares to the dedication and expertise of this family-run business! Commitment to quality & customer service, highly recommend",
+        "time": 1733170544,
+        "translated": false
+      },
+      {
+        "author_name": "Charlotta Snelling -DPSCS-",
+        "author_url": "https://www.google.com/maps/contrib/116775667428176928895/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrqrW4Ewo2vyIq-XrSVAQIu0jlRqDNJwEoHwwLI7XMIUkr2tIs=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I can't say enough good things about my experience with this company. The highest temperatures we have had this summer and the HVAC stopped working. I called the company spoke to the owner and he said he would try to get Brian out in the afternoon to check out the problem.  Brian came it was 94 in the house and unbearable. He found the problem and fixed it. I am so grateful for the quick response.",
+        "time": 1658837268,
+        "translated": false
+      },
+      {
+        "author_name": "Brian Roche",
+        "author_url": "https://www.google.com/maps/contrib/103699170196574446889/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiDmf8Lk-uPeDSDp637bCcg8Xku1PKlsM5ExEj7T73n9Ptafsb=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Very professional service and HVAC experts.  They know it's always an emergency when you lose your heat or air, so it is comforting to have a local company you can contact and someone reliably picks up the phone or responds in a timely fashion, schedules an appointment for service, and then shows up and fixes your problem!",
+        "time": 1539957376,
+        "translated": false
+      },
+      {
+        "author_name": "Krealz",
+        "author_url": "https://www.google.com/maps/contrib/117832048884658009893/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmxVKmOdhRmb6Tr-wjeuaW38l3AsSFDP94EqaMLVBo2dnpJCE=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 years ago",
+        "text": "filled out an application, called two weeks later to check the status of my application. Was told i would recieve a call back from the hiring manager. It never happened. Now i can not speak on there work, nor there customer sevice. Only on there none compliance getting back at me.",
+        "time": 1558559351,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 9
+  },
+  "status": "OK"
+}
+2025-02-20 18:41:36,609 - DEBUG - Search query: Tetteris HVAC Frederick USA
+2025-02-20 18:41:36,609 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:41:36,610 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:41:37,402 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Tetteris+HVAC+Frederick+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY HTTP/1.1" 200 80
+2025-02-20 18:41:37,403 - DEBUG - API Response status: 200
+2025-02-20 18:41:37,403 - DEBUG - Search API Response: {
+  "html_attributions": [],
+  "results": [],
+  "status": "ZERO_RESULTS"
+}
+2025-02-20 18:41:37,403 - WARNING - No places found for query: Tetteris HVAC Frederick USA
+2025-02-20 18:41:37,405 - DEBUG - Search query: ProfAir HVAC New York USA
+2025-02-20 18:41:37,405 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:41:37,406 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:41:38,057 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=ProfAir+HVAC+New+York+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY HTTP/1.1" 200 2174
+2025-02-20 18:41:38,058 - DEBUG - API Response status: 200
+2025-02-20 18:41:38,058 - DEBUG - Search API Response: {
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "542 3rd Ave, Brooklyn, NY 11215, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.668874,
+          "lng": -73.99363149999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.67014432989271,
+            "lng": -73.99213252010728
+          },
+          "southwest": {
+            "lat": 40.66744467010727,
+            "lng": -73.99483217989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Profair LTS Corp",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116611168254981887701\">A Google User</a>"
+          ],
+          "photo_reference": "AVzFdbnHQXmYg5vT_GMIxMZq2A_LMhRuMLsjb3JFwns0iy_9-I6ItaCnpMpvvzjOlvanHMWvF6qHAKEESZ2j6KEyWglazeJwv0uoqEmdbuM2Ax1yjYN9GU4sxDR285EKSSVdFMWqDbyIv4Hs0OI6r-fUMFqOdRqjaB-bbN1BSFlkk5tncG0LwDQII-07",
+          "width": 959
+        }
+      ],
+      "place_id": "ChIJJ3_cW8ZbwokRHXi5hj-si28",
+      "plus_code": {
+        "compound_code": "M294+GG Brooklyn, New York, USA",
+        "global_code": "87G8M294+GG"
+      },
+      "rating": 5,
+      "reference": "ChIJJ3_cW8ZbwokRHXi5hj-si28",
+      "types": [
+        "finance",
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 15
+    }
+  ],
+  "status": "OK"
+}
+2025-02-20 18:41:38,061 - INFO - Found place: Profair LTS Corp with place_id: ChIJJ3_cW8ZbwokRHXi5hj-si28
+2025-02-20 18:41:38,062 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:41:38,516 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/details/json?place_id=ChIJJ3_cW8ZbwokRHXi5hj-si28&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY&fields=name%2Cformatted_phone_number%2Cformatted_address%2Cwebsite%2Crating%2Cuser_ratings_total%2Creviews%2Copening_hours%2Cbusiness_status HTTP/1.1" 200 6693
+2025-02-20 18:41:38,517 - DEBUG - Details API Response: {
+  "html_attributions": [],
+  "result": {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "542 3rd Ave, Brooklyn, NY 11215, USA",
+    "formatted_phone_number": "(646) 764-3280",
+    "name": "Profair LTS Corp",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1430"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+        "Sunday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Jacque Medina",
+        "author_url": "https://www.google.com/maps/contrib/116081753542891670103/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKksS8dZjBJHJhgSlpYlx1D9zGJ2XS7iBcPcwsHiXdfvQAo9w=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "I don't know where to begin with the service and professional services I received during my purchasing experience.\nI absolutely didn't have any experience in what I specifically needed but the whole team at Profair LTS Corp, provided what I needed with a photo and sizing! I didn't even have to to back, just waited until it was fabricated and completed. I recommend Profair LTS Corp as they met the mark with all aspects of the quality and of their work. Thank you, again.",
+        "time": 1714598508,
+        "translated": false
+      },
+      {
+        "author_name": "Zevulun Yakubov",
+        "author_url": "https://www.google.com/maps/contrib/103937685607881832733/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGhNxDR8QJYOe3arh0qFrTXsnsDDAAsyGmie0UFBa_Cy4ZoQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Amazing service I was in and\nPut explained what I needed they got me right away. Paid the bill and had it ready next day. Amazing work amazing people definitely Recommend",
+        "time": 1694195319,
+        "translated": false
+      },
+      {
+        "author_name": "Natalia Salvatore",
+        "author_url": "https://www.google.com/maps/contrib/115096231751686643531/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIj5FxQorgCajwrygxvuCAUlFIuIh4Uv4kHS6XSKSasHtIxiw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Reasonable price with high-quality installation and fabrication. Work ended on a positive note, I will definitely return to them again if I will need to install new A/C system",
+        "time": 1673663345,
+        "translated": false
+      },
+      {
+        "author_name": "Jama Khakimov",
+        "author_url": "https://www.google.com/maps/contrib/112589275005818061045/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUd3DacM9y3ZsSMn0apNJH8cOFeYUkXUQH08ytcJapdGIAopMqb=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Very professional, Very responsible guys, I recommend them to everyone. I had a great experience working with Profair.",
+        "time": 1674011003,
+        "translated": false
+      },
+      {
+        "author_name": "Oleg Ivanik",
+        "author_url": "https://www.google.com/maps/contrib/116163835300052329729/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzpY1vAso4_wy5Q4RuniiRrRwxbG3-ovxSKGPYuflIt_hda-ry=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Very fast installation and fabrication ductwork,highly recommendation",
+        "time": 1673016462,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 15,
+    "website": "http://profaircorp.com/"
+  },
+  "status": "OK"
+}
+2025-02-20 18:41:38,532 - INFO - Enhanced data saved to enhanced_dataset.csv
+2025-02-20 18:45:07,409 - INFO - Loaded CSV file with 3737 rows
+2025-02-20 18:45:07,409 - INFO - Test mode: Processing first 5 rows only
+2025-02-20 18:45:07,411 - DEBUG - Search query: Gamble Plumbing HVAC Raleigh USA
+2025-02-20 18:45:07,412 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:45:07,414 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:45:08,109 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Gamble+Plumbing+HVAC+Raleigh+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY HTTP/1.1" 200 2210
+2025-02-20 18:45:08,109 - DEBUG - API Response status: 200
+2025-02-20 18:45:08,110 - DEBUG - Search API Response: {
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1027 US-70 Suite 107, Garner, NC 27529, United States",
+      "geometry": {
+        "location": {
+          "lat": 35.7158511,
+          "lng": -78.6338684
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.71730607989273,
+            "lng": -78.63245252010728
+          },
+          "southwest": {
+            "lat": 35.71460642010729,
+            "lng": -78.63515217989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Gamble Plumbing Heating and Air Conditioning",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116025460688643796374\">A Google User</a>"
+          ],
+          "photo_reference": "AVzFdbkWhsXvJQ7nWAESMSWs3hPGJdzrWZls9dn474v53YzTGjU27GWU1crnOXCJGb7AMpzL9pW0KLn5LbRKZk6NFzn5Ep8EACtYksV2aDuK-dHwCY-OmqXEYEit6efJGoszUsbY1Vm_6fufdbmSaxGgHCj-mW9bOgn1RS6r5FGAQEaiBr6S7rDItM1-",
+          "width": 6016
+        }
+      ],
+      "place_id": "ChIJMTaCvEZhrIkRWFk112PjER0",
+      "plus_code": {
+        "compound_code": "P988+8F Garner, North Carolina, USA",
+        "global_code": "8773P988+8F"
+      },
+      "rating": 4.8,
+      "reference": "ChIJMTaCvEZhrIkRWFk112PjER0",
+      "types": [
+        "plumber",
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 23
+    }
+  ],
+  "status": "OK"
+}
+2025-02-20 18:45:08,113 - INFO - Found place: Gamble Plumbing Heating and Air Conditioning with place_id: ChIJMTaCvEZhrIkRWFk112PjER0
+2025-02-20 18:45:08,115 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:45:08,746 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/details/json?place_id=ChIJMTaCvEZhrIkRWFk112PjER0&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY&fields=name%2Cformatted_phone_number%2Cformatted_address%2Cwebsite%2Crating%2Cuser_ratings_total%2Creviews%2Copening_hours%2Cbusiness_status HTTP/1.1" 200 7871
+2025-02-20 18:45:08,747 - DEBUG - Details API Response: {
+  "html_attributions": [],
+  "result": {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1027 US-70 Suite 107, Garner, NC 27529, USA",
+    "formatted_phone_number": "(919) 772-1338",
+    "name": "Gamble Plumbing Heating and Air Conditioning",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Saturday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+        "Sunday: Closed"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "L. L.",
+        "author_url": "https://www.google.com/maps/contrib/114008052975136894120/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7Pd9d4OQ7QsFeT-sNuZ2I3ymD3szL2PPchVETCh1P3Jv8DWtj=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "ABSOLUTELY AMAZED AT THEIR SERVICE!!! They were contacted by landlord to repair my air conditioner air. The first technician came out and got the AC working audio but he said it would not be up to it\u2019s full potential because it needed to be cleaned. I told him I would let my landlord know. Of course they didn\u2019t handle it.\n\nSo I sent another request to my landlord and let them know it still wasn\u2019t working. Anyway on Sunday June 30 I got a call I want to say from the owner of Gamble. He asked me what was going on I told him the thermostat would not go under 75 so he  said he would come by. He was here for about an hour cleaned out the unit added more refrigerant and when I tell you my house is the coldest is ever been since the three years I\u2019ve been here!!\n\nI 100% highly recommend this company!! He went above and beyond to get me right!! Thank you!!!",
+        "time": 1719886484,
+        "translated": false
+      },
+      {
+        "author_name": "Crystal Hunt",
+        "author_url": "https://www.google.com/maps/contrib/114865597502407552362/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2dL-J7ce7_r-n5sc9eR_h245hkhAfVqKFiZdxEogKm2HACJ93=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "The staff at Gamble Plumbing are so helpful and helped me make the best decision for repairs I needed.  They scheduled an appointment right away and completed the work quickly, and worked neatly.  Thank you so much to the team for the support and quality work on my home!",
+        "time": 1738948839,
+        "translated": false
+      },
+      {
+        "author_name": "Deborah Thomassen",
+        "author_url": "https://www.google.com/maps/contrib/107777250814143864752/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLY-RIR-vwPxigX2J8apIWL1JOcnXKpyN1TXJhRbBnClUuSfA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "What exceptional service, communication, and fair pricing! I would not hesitate to recommend Gamble. Gamble is not a gamble! You will be in good hands!",
+        "time": 1739805224,
+        "translated": false
+      },
+      {
+        "author_name": "Abraham Harper (Adam)",
+        "author_url": "https://www.google.com/maps/contrib/106097362282072195103/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmOA5VnlDLm3yWAu0PmfaDMq8lRaTRuB1YSCwjbml1Ol5baQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "Every time this company comes to the townhome complex I live in, they turn off the water for everyone. No warning, no notice, nothing. It\u2019s mid-day Friday and I have no water, the same thing happened yesterday. At least let people know you are going to turn off their water for a few hours  in the middle of the day.",
+        "time": 1733503654,
+        "translated": false
+      },
+      {
+        "author_name": "Nathan Miller",
+        "author_url": "https://www.google.com/maps/contrib/102671257325648392210/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzB95G2eqFShMFtK069RO-DmSIlTJIDNU-0SnI2Lp8MuK50g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Andrew and the crew were professional, knowledgeable, honest and courteous. I got quotes from 2 other big name companies and Gamble plumbing was much more reasonable. They installed a new water heater, new pressure valve, and a new outside hose bib for $300 less than what another company quoted for JUST a new water heater - the choice was obvious. Water pressure is better than before and couldn't be happier with the work they did.\n\nWe had them back for another leaking valve in the laundry room and Andrew offered a better solution then what he had originally quoted - less drywall cut, less materials and less money for the same desired result. He could have easily just stuck to his quote but he found a better solution. I recommend Gamble to anyone looking for a plumber and will call them for any of my future needs.",
+        "time": 1717181945,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 23,
+    "website": "https://gambletheplumber.com/"
+  },
+  "status": "OK"
+}
+2025-02-20 18:45:08,761 - DEBUG - Search query: Spurk HVAC Pittsburgh USA
+2025-02-20 18:45:08,761 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:45:08,763 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:45:09,457 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Spurk+HVAC+Pittsburgh+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY HTTP/1.1" 200 2209
+2025-02-20 18:45:09,458 - DEBUG - API Response status: 200
+2025-02-20 18:45:09,458 - DEBUG - Search API Response: {
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "355 Northgate Dr, Warrendale, PA 15086, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.6557124,
+          "lng": -80.0837384
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.65710647989272,
+            "lng": -80.08233947010727
+          },
+          "southwest": {
+            "lat": 40.65440682010728,
+            "lng": -80.08503912989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Spurk HVAC, LLC.",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3025,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109117370028909351652\">A Google User</a>"
+          ],
+          "photo_reference": "AVzFdbmQr4WpH-6PT4TtlYuvnBsJhgFtrVRp4C9SQ1Ppc6HsKVNS_jqw-BZxwsL6vjWZbiVWz-YgKHznD0r7K7b-4M-yhHofmzWJVqF0dwgmSEbzQ13rN75gSIlYDDMMyEXrEmB6L49FuFtjcELWHBZvVpjHUvxydEbp9ZLKDad7SyB_tziLNbPZTB1W",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJoXu4xneINIgRldjD20nbkdQ",
+      "plus_code": {
+        "compound_code": "MW48+7G Warrendale, Pennsylvania, USA",
+        "global_code": "86GXMW48+7G"
+      },
+      "rating": 4.9,
+      "reference": "ChIJoXu4xneINIgRldjD20nbkdQ",
+      "types": [
+        "car_dealer",
+        "general_contractor",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 402
+    }
+  ],
+  "status": "OK"
+}
+2025-02-20 18:45:09,461 - INFO - Found place: Spurk HVAC, LLC. with place_id: ChIJoXu4xneINIgRldjD20nbkdQ
+2025-02-20 18:45:09,462 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:45:09,944 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/details/json?place_id=ChIJoXu4xneINIgRldjD20nbkdQ&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY&fields=name%2Cformatted_phone_number%2Cformatted_address%2Cwebsite%2Crating%2Cuser_ratings_total%2Creviews%2Copening_hours%2Cbusiness_status HTTP/1.1" 200 5650
+2025-02-20 18:45:09,945 - DEBUG - Details API Response: {
+  "html_attributions": [],
+  "result": {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "355 Northgate Dr, Warrendale, PA 15086, USA",
+    "formatted_phone_number": "(724) 213-0587",
+    "name": "Spurk HVAC, LLC.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "matthew sanders",
+        "author_url": "https://www.google.com/maps/contrib/112533958755269639042/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlz-vVK9LbGsoQc_OgyyOwh6-gxNYV47tx_s8entKB-lnRXw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "We had a great experience all the way around.  We switched from an old oil furnace that was installed in 81 so I have to assume this was anything but the standard job.  When Jason came out to give us a price on the job he was on-time, communicated with us very well, and was very easy to deal with.   This was exactly how every step of the process went with this company from the office, to the purchaser to the installer.  Quite honestly if every contractor provided a service like this I would do a lot less projects at my house on my own.",
+        "time": 1739621272,
+        "translated": false
+      },
+      {
+        "author_name": "Peggy Opel",
+        "author_url": "https://www.google.com/maps/contrib/106582284680053507491/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQqoZUNDvV9NekUyC8tVLuumn64om5CFT-Ku4vzHTZipAhXg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Spurk heating/AC services was the best choice for our needs.  They are all very knowledgeable and did a fantastic job for us.  We had both our furnace and A/C replaced at a reasonable cost, and in record time.  We will certainly use this company again and again.  Great job by all who worked for us!  Thank you!",
+        "time": 1737006400,
+        "translated": false
+      },
+      {
+        "author_name": "jim gajkowski",
+        "author_url": "https://www.google.com/maps/contrib/108623840650313422224/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL98yHJMfMfea9xUvIUJqWl9GWMIIjFC9Kct47Zpps4n38MLw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Spurk is always five star ! Evan came today (on a cold Sunday) and fixed our furnace. He is especially fantastic. He even called within five minutes of our service request and was at our home within an hour.  He is extremely good and also took time to explain everything to us! Thank you so much Evan, you\u2019re the best!",
+        "time": 1736107553,
+        "translated": false
+      },
+      {
+        "author_name": "Anthony Henderson",
+        "author_url": "https://www.google.com/maps/contrib/105713213906727683272/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXTObsrUFMT_OXIDD4u6uUVtQzDOErDFvuN27rbP1qzr3Phw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Excellent customer service! From the owner to the technicians, and everyone in between, it was very evident that the team at at Spurk really cares about the customer and is willing to go the extra mile to ensure all concerns are addressed in a professional manner. We feel very fortunate that our next-door neighbor personally recommended them. We couldn't be happier!",
+        "time": 1732106742,
+        "translated": false
+      },
+      {
+        "author_name": "Melissa Butscher",
+        "author_url": "https://www.google.com/maps/contrib/115585002165709528588/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMTSIUC6SY4gP45PeiKO5c82OH70gs-ZxU8S3iGwaZ-7BrWzey=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Jason went out of his way to assess my furnace asap when it died in the middle of a sub zero freeze. My new furnace was installed within 48 hours. They were very professional and did a fantastic job. I would highly recommend their service.",
+        "time": 1737658436,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 402,
+    "website": "https://www.spurkhvac.com/?utm_source=google&utm_medium=gmb&utm_id=cbc"
+  },
+  "status": "OK"
+}
+2025-02-20 18:45:09,957 - DEBUG - Search query: Pliescott HVAC Services Cambridge USA
+2025-02-20 18:45:09,957 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:45:09,958 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:45:10,594 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Pliescott+HVAC+Services+Cambridge+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY HTTP/1.1" 200 1514
+2025-02-20 18:45:10,595 - DEBUG - API Response status: 200
+2025-02-20 18:45:10,595 - DEBUG - Search API Response: {
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "100 Goodwill Rd, Cambridge, MD 21613, United States",
+      "geometry": {
+        "location": {
+          "lat": 38.55921,
+          "lng": -76.0730136
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.56054337989273,
+            "lng": -76.07168207010727
+          },
+          "southwest": {
+            "lat": 38.55784372010728,
+            "lng": -76.07438172989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Pliescott HVAC Services",
+      "place_id": "ChIJCXjLpz1KuIkRtVrbcXnAHd4",
+      "plus_code": {
+        "compound_code": "HW5G+PV Cambridge, Maryland, USA",
+        "global_code": "87C5HW5G+PV"
+      },
+      "rating": 4.1,
+      "reference": "ChIJCXjLpz1KuIkRtVrbcXnAHd4",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 9
+    }
+  ],
+  "status": "OK"
+}
+2025-02-20 18:45:10,598 - INFO - Found place: Pliescott HVAC Services with place_id: ChIJCXjLpz1KuIkRtVrbcXnAHd4
+2025-02-20 18:45:10,599 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:45:11,273 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/details/json?place_id=ChIJCXjLpz1KuIkRtVrbcXnAHd4&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY&fields=name%2Cformatted_phone_number%2Cformatted_address%2Cwebsite%2Crating%2Cuser_ratings_total%2Creviews%2Copening_hours%2Cbusiness_status HTTP/1.1" 200 4552
+2025-02-20 18:45:11,274 - DEBUG - Details API Response: {
+  "html_attributions": [],
+  "result": {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "100 Goodwill Rd, Cambridge, MD 21613, USA",
+    "formatted_phone_number": "(410) 228-4822",
+    "name": "Pliescott HVAC Services",
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Tyler Lewis",
+        "author_url": "https://www.google.com/maps/contrib/103206282968560513651/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgZkvaWBWZC1d5gpabTe1gtoaJ0EW_UndV8xyuqcnwDqbiYI0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Woody and his employees always go above and beyond whenever I call for a service or emergency situation. Honest and outstanding That you can trust will get the job done right. Highly recommend this company!",
+        "time": 1723641357,
+        "translated": false
+      },
+      {
+        "author_name": "Justin Johnson",
+        "author_url": "https://www.google.com/maps/contrib/100425066818500901418/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXknPvvv5aE9s2n9xZMrWSqjo3fOdEXG5xhav60wpse7bQ4ohy=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Nothing compares to the dedication and expertise of this family-run business! Commitment to quality & customer service, highly recommend",
+        "time": 1733170544,
+        "translated": false
+      },
+      {
+        "author_name": "Charlotta Snelling -DPSCS-",
+        "author_url": "https://www.google.com/maps/contrib/116775667428176928895/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrqrW4Ewo2vyIq-XrSVAQIu0jlRqDNJwEoHwwLI7XMIUkr2tIs=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I can't say enough good things about my experience with this company. The highest temperatures we have had this summer and the HVAC stopped working. I called the company spoke to the owner and he said he would try to get Brian out in the afternoon to check out the problem.  Brian came it was 94 in the house and unbearable. He found the problem and fixed it. I am so grateful for the quick response.",
+        "time": 1658837268,
+        "translated": false
+      },
+      {
+        "author_name": "Brian Roche",
+        "author_url": "https://www.google.com/maps/contrib/103699170196574446889/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiDmf8Lk-uPeDSDp637bCcg8Xku1PKlsM5ExEj7T73n9Ptafsb=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Very professional service and HVAC experts.  They know it's always an emergency when you lose your heat or air, so it is comforting to have a local company you can contact and someone reliably picks up the phone or responds in a timely fashion, schedules an appointment for service, and then shows up and fixes your problem!",
+        "time": 1539957376,
+        "translated": false
+      },
+      {
+        "author_name": "Krealz",
+        "author_url": "https://www.google.com/maps/contrib/117832048884658009893/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmxVKmOdhRmb6Tr-wjeuaW38l3AsSFDP94EqaMLVBo2dnpJCE=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 years ago",
+        "text": "filled out an application, called two weeks later to check the status of my application. Was told i would recieve a call back from the hiring manager. It never happened. Now i can not speak on there work, nor there customer sevice. Only on there none compliance getting back at me.",
+        "time": 1558559351,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 9
+  },
+  "status": "OK"
+}
+2025-02-20 18:45:11,283 - DEBUG - Search query: Tetteris HVAC Frederick USA
+2025-02-20 18:45:11,283 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:45:11,285 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:45:12,060 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=Tetteris+HVAC+Frederick+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY HTTP/1.1" 200 80
+2025-02-20 18:45:12,060 - DEBUG - API Response status: 200
+2025-02-20 18:45:12,060 - DEBUG - Search API Response: {
+  "html_attributions": [],
+  "results": [],
+  "status": "ZERO_RESULTS"
+}
+2025-02-20 18:45:12,061 - WARNING - No places found for query: Tetteris HVAC Frederick USA
+2025-02-20 18:45:12,062 - DEBUG - Search query: ProfAir HVAC New York USA
+2025-02-20 18:45:12,063 - DEBUG - Making API request to https://maps.googleapis.com/maps/api/place/textsearch/json
+2025-02-20 18:45:12,064 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:45:12,845 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=ProfAir+HVAC+New+York+USA&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY HTTP/1.1" 200 2174
+2025-02-20 18:45:12,846 - DEBUG - API Response status: 200
+2025-02-20 18:45:12,846 - DEBUG - Search API Response: {
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "542 3rd Ave, Brooklyn, NY 11215, United States",
+      "geometry": {
+        "location": {
+          "lat": 40.668874,
+          "lng": -73.99363149999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.67014432989271,
+            "lng": -73.99213252010728
+          },
+          "southwest": {
+            "lat": 40.66744467010727,
+            "lng": -73.99483217989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Profair LTS Corp",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116611168254981887701\">A Google User</a>"
+          ],
+          "photo_reference": "AVzFdbmH2vqaJYHtsF5tLTbQr1GzPsCXsZwwPTz6zLsaXYTvSP9iw2qL0VqpbFvFyWy4k8vvvEz5QQaBU2Wahnfin3_70P9xYQjR5potJsiKW5VEdi9Iy6h7RvF7_GtwqIR1rDq_yGo-XuA7CT6e2Akta5a1xZqaXQRsWZZ9UwLXQkBRIfwcZNKxD73B",
+          "width": 959
+        }
+      ],
+      "place_id": "ChIJJ3_cW8ZbwokRHXi5hj-si28",
+      "plus_code": {
+        "compound_code": "M294+GG Brooklyn, New York, USA",
+        "global_code": "87G8M294+GG"
+      },
+      "rating": 5,
+      "reference": "ChIJJ3_cW8ZbwokRHXi5hj-si28",
+      "types": [
+        "general_contractor",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 15
+    }
+  ],
+  "status": "OK"
+}
+2025-02-20 18:45:12,849 - INFO - Found place: Profair LTS Corp with place_id: ChIJJ3_cW8ZbwokRHXi5hj-si28
+2025-02-20 18:45:12,850 - DEBUG - Starting new HTTPS connection (1): maps.googleapis.com:443
+2025-02-20 18:45:13,477 - DEBUG - https://maps.googleapis.com:443 "GET /maps/api/place/details/json?place_id=ChIJJ3_cW8ZbwokRHXi5hj-si28&key=AIzaSyC-Xs-dMfLm8hly4_Uf2qDlInVUAjTJhEY&fields=name%2Cformatted_phone_number%2Cformatted_address%2Cwebsite%2Crating%2Cuser_ratings_total%2Creviews%2Copening_hours%2Cbusiness_status HTTP/1.1" 200 6693
+2025-02-20 18:45:13,478 - DEBUG - Details API Response: {
+  "html_attributions": [],
+  "result": {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "542 3rd Ave, Brooklyn, NY 11215, USA",
+    "formatted_phone_number": "(646) 764-3280",
+    "name": "Profair LTS Corp",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1430"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+        "Sunday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Jacque Medina",
+        "author_url": "https://www.google.com/maps/contrib/116081753542891670103/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKksS8dZjBJHJhgSlpYlx1D9zGJ2XS7iBcPcwsHiXdfvQAo9w=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "I don't know where to begin with the service and professional services I received during my purchasing experience.\nI absolutely didn't have any experience in what I specifically needed but the whole team at Profair LTS Corp, provided what I needed with a photo and sizing! I didn't even have to to back, just waited until it was fabricated and completed. I recommend Profair LTS Corp as they met the mark with all aspects of the quality and of their work. Thank you, again.",
+        "time": 1714598508,
+        "translated": false
+      },
+      {
+        "author_name": "Zevulun Yakubov",
+        "author_url": "https://www.google.com/maps/contrib/103937685607881832733/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGhNxDR8QJYOe3arh0qFrTXsnsDDAAsyGmie0UFBa_Cy4ZoQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Amazing service I was in and\nPut explained what I needed they got me right away. Paid the bill and had it ready next day. Amazing work amazing people definitely Recommend",
+        "time": 1694195319,
+        "translated": false
+      },
+      {
+        "author_name": "Natalia Salvatore",
+        "author_url": "https://www.google.com/maps/contrib/115096231751686643531/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIj5FxQorgCajwrygxvuCAUlFIuIh4Uv4kHS6XSKSasHtIxiw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Reasonable price with high-quality installation and fabrication. Work ended on a positive note, I will definitely return to them again if I will need to install new A/C system",
+        "time": 1673663345,
+        "translated": false
+      },
+      {
+        "author_name": "Jama Khakimov",
+        "author_url": "https://www.google.com/maps/contrib/112589275005818061045/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUd3DacM9y3ZsSMn0apNJH8cOFeYUkXUQH08ytcJapdGIAopMqb=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Very professional, Very responsible guys, I recommend them to everyone. I had a great experience working with Profair.",
+        "time": 1674011003,
+        "translated": false
+      },
+      {
+        "author_name": "Oleg Ivanik",
+        "author_url": "https://www.google.com/maps/contrib/116163835300052329729/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzpY1vAso4_wy5Q4RuniiRrRwxbG3-ovxSKGPYuflIt_hda-ry=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Very fast installation and fabrication ductwork,highly recommendation",
+        "time": 1673016462,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 15,
+    "website": "http://profaircorp.com/"
+  },
+  "status": "OK"
+}
+2025-02-20 18:45:13,496 - INFO - Enhanced data saved to enhanced_dataset.csv
